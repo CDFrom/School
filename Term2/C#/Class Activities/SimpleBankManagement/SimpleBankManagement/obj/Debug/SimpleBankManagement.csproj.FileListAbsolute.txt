@@ -1,0 +1,15 @@
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\SimpleBankManagement\SimpleBankManagement\bin\Debug\SimpleBankManagement.exe.config
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\SimpleBankManagement\SimpleBankManagement\bin\Debug\SimpleBankManagement.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\SimpleBankManagement\SimpleBankManagement\bin\Debug\SimpleBankManagement.pdb
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\SimpleBankManagement\SimpleBankManagement\obj\Debug\SimpleBankManagement.csproj.AssemblyReference.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\SimpleBankManagement\SimpleBankManagement\obj\Debug\SimpleBankManagement.csproj.CoreCompileInputs.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\SimpleBankManagement\SimpleBankManagement\obj\Debug\SimpleBankManagement.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\SimpleBankManagement\SimpleBankManagement\obj\Debug\SimpleBankManagement.pdb
+C:\Users\rolux\Desktop\C#\Class Activities\SimpleBankManagement\SimpleBankManagement\bin\Debug\SimpleBankManagement.exe.config
+C:\Users\rolux\Desktop\C#\Class Activities\SimpleBankManagement\SimpleBankManagement\bin\Debug\SimpleBankManagement.exe
+C:\Users\rolux\Desktop\C#\Class Activities\SimpleBankManagement\SimpleBankManagement\bin\Debug\SimpleBankManagement.pdb
+C:\Users\rolux\Desktop\C#\Class Activities\SimpleBankManagement\SimpleBankManagement\obj\Debug\SimpleBankManagement.csproj.AssemblyReference.cache
+C:\Users\rolux\Desktop\C#\Class Activities\SimpleBankManagement\SimpleBankManagement\obj\Debug\SimpleBankManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\rolux\Desktop\C#\Class Activities\SimpleBankManagement\SimpleBankManagement\obj\Debug\SimpleBankManagement.csproj.CoreCompileInputs.cache
+C:\Users\rolux\Desktop\C#\Class Activities\SimpleBankManagement\SimpleBankManagement\obj\Debug\SimpleBankManagement.exe
+C:\Users\rolux\Desktop\C#\Class Activities\SimpleBankManagement\SimpleBankManagement\obj\Debug\SimpleBankManagement.pdb

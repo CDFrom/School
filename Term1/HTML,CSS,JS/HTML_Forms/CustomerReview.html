@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Customer Review Form</title>
+  </head>
+  <body>
+    <h1>Customer Review Form:</h1>
+    <form action="CustomerReview.html" method="post">
+      <fieldset>
+        <legend>Write to us</legend>
+        <table cellspacing="10">
+          <tr>
+            <td>
+              <label for="idUserName">Your Name: </label>
+              <input id="idUserName" type="text" name="UserName" value="" placeholder="Your name here" required>
+            </td>
+          </tr>
+          <tr>
+            <td>
+            <label for="idEmail">Your E-mail:</label>
+            <input id="idEmail" type="email" name="" value="" placeholder="Your e-mail here" required>
+          </td>
+          </tr>
+          <tr>
+            <td><label for="idTextArea">Your Comments:</label></td>
+          </tr>
+          <tr>
+            <td><textarea id="idTextArea" name="textMessage" rows="10" cols="35" placeholder="Your message here..."></textarea></td>
+          </tr>
+          <tr>
+            <td><label for="idRating">Rate Us:</label><select id="idRating" name="Rating">
+              <option value="5">⭐⭐⭐⭐⭐</option>
+              <option value="4">⭐⭐⭐⭐</option>
+              <option value="3">⭐⭐⭐</option>
+              <option value="2">⭐⭐</option>
+              <option value="1">⭐</option>
+            </select></td>
+          </tr>
+          <tr>
+            <td><input type="submit" name="Submit" value="Submit"></td>
+          </tr>
+          </table>
+      </fieldset>
+    </form>
+  </body>
+</html>

@@ -1,0 +1,7 @@
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\ArraysInCSharp\ArraysInCSharp\obj\Debug\ArraysInCSharp.csproj.AssemblyReference.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\ArraysInCSharp\ArraysInCSharp\obj\Debug\ArraysInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\ArraysInCSharp\ArraysInCSharp\bin\Debug\ArraysInCSharp.exe.config
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\ArraysInCSharp\ArraysInCSharp\bin\Debug\ArraysInCSharp.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\ArraysInCSharp\ArraysInCSharp\bin\Debug\ArraysInCSharp.pdb
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\ArraysInCSharp\ArraysInCSharp\obj\Debug\ArraysInCSharp.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\ArraysInCSharp\ArraysInCSharp\obj\Debug\ArraysInCSharp.pdb

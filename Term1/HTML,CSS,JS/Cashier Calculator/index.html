@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Cashier Calculator</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <div class="Admin">
+    <div class="Header">
+      <h1>Admin</h1>
+    </div>
+    <div class="Body">
+      <p>Add a new product</p><br>
+      <div class="ProductAdd">
+        <input id="product" type="text" name="product" value="" placeholder="product name">
+        <button id="addProduct" type="button" name="addProduct">Add Product</button>
+      </div>
+      <div class="PriceAdd">
+        <p>Select a product then add the price per unit</p><br>
+        <select id="productDropDown" class="ProductDropDown" name="Product">
+          <option></option>
+        </select>
+        <input id="price" type="number" name="price" value="" placeholder="price">
+        <button id="addPrice" type="button" name="addPrice">Add Price</button>
+      </div>
+    </div>
+  </div>
+  <div class="Checkout">
+    <div class="Header">
+      <h1>Checkout</h1>
+    </div>
+    <div class="Body">
+      <div class="NewTransaction">
+        <button id="newTransaction" type="button" name="newTransaction">New Transaction</button>
+      </div>
+      <p>Select a product then type the number of units</p><br>
+      <div class="AddToCart">
+        <select id="checkoutDropDown" class="ProductAndPrice" name="CheckoutItemSelect">
+          <option></option>
+        </select>
+        <p style="display:inline; margin-left: 14%;">Unit:</p>
+        <input id="numToAdd" type="text" name="Units" value="" style="width:7%; padding: 2%; margin-right: 14%;" readonly>
+        <button id="addToCart" type="button" name="addToCart">Add to Cart</button>
+      </div>
+      <div class="Numpad">
+        <button class="cell" type="button" name="1">1</button>
+        <button class="cell" type="button" name="2">2</button>
+        <button class="cell" type="button" name="3">3</button>
+        <button class="cell" type="button" name="4">4</button>
+        <button class="cell" type="button" name="5">5</button>
+        <button class="cell" type="button" name="6">6</button>
+        <button class="cell" type="button" name="7">7</button>
+        <button class="cell" type="button" name="8">8</button>
+        <button class="cell" type="button" name="9">9</button>
+      </div>
+      <button id="pay" type="button" name="pay" style="float: right; margin: 5%;">Pay</button>
+    </div>
+  </div>
+  <div class="Receipt">
+    <div class="Header">
+      <h1>Receipt</h1>
+    </div>
+    <div class="Body">
+      <div class="ReceiptField">
+        <p><b>Date:</b> <span id="date"></span></p>
+        <p><b>Time:</b> <span id="time"></span></p>
+        <table id="receipt">
+          <thead>
+            <tr>
+              <th>Product</th>
+              <th>$/unit</th>
+              <th>Unit(s)</th>
+              <th>Price</th>
+            </tr>
+          </thead>
+          <tbody>
+          </tbody>
+        </table>
+        <p>Total price: <span id="totalPrice">0.00</span></p>
+        <p>Taxes: <span id="tax">0.00</span></p>
+        <p>Amount Due: <span id="due">0.00</span></p>
+      </div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>

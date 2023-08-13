@@ -1,0 +1,7 @@
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\Week 12 Day 2\LA 1.1\LA 1.1\LA 1.1\bin\Debug\LA 1.1.exe.config
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\Week 12 Day 2\LA 1.1\LA 1.1\LA 1.1\bin\Debug\LA 1.1.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\Week 12 Day 2\LA 1.1\LA 1.1\LA 1.1\bin\Debug\LA 1.1.pdb
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\Week 12 Day 2\LA 1.1\LA 1.1\LA 1.1\obj\Debug\LA 1.1.csproj.AssemblyReference.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\Week 12 Day 2\LA 1.1\LA 1.1\LA 1.1\obj\Debug\LA 1.1.csproj.CoreCompileInputs.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\Week 12 Day 2\LA 1.1\LA 1.1\LA 1.1\obj\Debug\LA 1.1.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\Week 12 Day 2\LA 1.1\LA 1.1\LA 1.1\obj\Debug\LA 1.1.pdb

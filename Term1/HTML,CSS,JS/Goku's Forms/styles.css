@@ -1,0 +1,31 @@
+h2{
+  color: white;
+  display: inline-block;
+  margin: auto;
+  text-align: center;
+  text-decoration: underline;
+}
+
+body{
+  background: black;
+}
+
+img{
+  display: inline-block;
+  margin: auto;
+}
+
+.header{
+  display: flex;
+  height: 10vh;
+  width: 90vw;
+  margin: auto;
+}
+
+.container{
+  display: flex;
+  height: 85vh;
+  width: 90vw;
+  margin: auto;
+  justify-content: center;
+}

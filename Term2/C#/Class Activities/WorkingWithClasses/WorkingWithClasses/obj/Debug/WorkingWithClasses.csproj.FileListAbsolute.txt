@@ -1,0 +1,15 @@
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\WorkingWithClasses\WorkingWithClasses\bin\Debug\WorkingWithClasses.exe.config
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\WorkingWithClasses\WorkingWithClasses\bin\Debug\WorkingWithClasses.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\WorkingWithClasses\WorkingWithClasses\bin\Debug\WorkingWithClasses.pdb
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\WorkingWithClasses\WorkingWithClasses\obj\Debug\WorkingWithClasses.csproj.AssemblyReference.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\WorkingWithClasses\WorkingWithClasses\obj\Debug\WorkingWithClasses.csproj.CoreCompileInputs.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\WorkingWithClasses\WorkingWithClasses\obj\Debug\WorkingWithClasses.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\WorkingWithClasses\WorkingWithClasses\obj\Debug\WorkingWithClasses.pdb
+C:\Users\rolux\Desktop\C#\Class Activities\WorkingWithClasses\WorkingWithClasses\bin\Debug\WorkingWithClasses.exe.config
+C:\Users\rolux\Desktop\C#\Class Activities\WorkingWithClasses\WorkingWithClasses\bin\Debug\WorkingWithClasses.exe
+C:\Users\rolux\Desktop\C#\Class Activities\WorkingWithClasses\WorkingWithClasses\bin\Debug\WorkingWithClasses.pdb
+C:\Users\rolux\Desktop\C#\Class Activities\WorkingWithClasses\WorkingWithClasses\obj\Debug\WorkingWithClasses.csproj.AssemblyReference.cache
+C:\Users\rolux\Desktop\C#\Class Activities\WorkingWithClasses\WorkingWithClasses\obj\Debug\WorkingWithClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\rolux\Desktop\C#\Class Activities\WorkingWithClasses\WorkingWithClasses\obj\Debug\WorkingWithClasses.csproj.CoreCompileInputs.cache
+C:\Users\rolux\Desktop\C#\Class Activities\WorkingWithClasses\WorkingWithClasses\obj\Debug\WorkingWithClasses.exe
+C:\Users\rolux\Desktop\C#\Class Activities\WorkingWithClasses\WorkingWithClasses\obj\Debug\WorkingWithClasses.pdb

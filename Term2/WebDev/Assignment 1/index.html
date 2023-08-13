@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Assignment 1 Home Page</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <!--Header Creation-->
+    <header>
+      <h1>Assignment 1</h1>
+      <h3>Colin From</h3>
+    </header>
+
+    <!---Navbar Creation-->
+    <nav>
+      <a id="homePage" href="index.html">Home Page</a>
+      <a href="markToGradeConverter.html">Mark to Grade Converter</a>
+      <a href="staff.html">Staff</a>
+      <a href="weather.html">Weather</a>
+    </nav>
+
+    <!--Begin Content-->
+    <!--Photo and Name-->
+    <section class="top">
+      <img
+        id="photoOfMe"
+        src="Images/image.jpg"
+        alt="Photo of me"
+        onclick="easterEgg()"
+      />
+      <h2 id="name"><u>Colin From</u></h2>
+    </section>
+
+    <!--Info Section-->
+    <section class="middle">
+      <h3>About Me:</h3>
+      <p>
+        My name is Colin I am 25 years old and I was born and raised in Calgary,
+        Alberta, Canada. I am currently studying to become a software developer
+        at Bow Valley College in their Software Development Diploma program. I
+        first got into the idea of doing software development back around middle
+        school, but my mind kept changing as to what I wanted to do for a career
+        path. Over the years I took many different jobs in a variety of fields
+        and even set out into the trades for a while working as a steamfitter.
+        One day I decided that I wanted to follow my passion of coding and
+        working with computers and set out to figure out how I was going to make
+        it happen. I am currently in my second year at Bow Valley and couldn't
+        be happier with my choice to pursue becoming a computer programmer.
+      </p>
+    </section>
+
+    <!--Footer Creation-->
+    <footer>
+      <hr />
+      <p><span id="currentDate">This is a date</span></p>
+      <p>© 2022 Colin From</p>
+    </footer>
+
+    <!--Link scripting and showName function on window load-->
+    <script src="SODV1201_A1.js"></script>
+    <script>
+      window.onload = showName();
+    </script>
+  </body>
+</html>

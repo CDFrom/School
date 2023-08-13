@@ -1,0 +1,15 @@
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\StudentLists\StudentLists\bin\Debug\StudentLists.exe.config
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\StudentLists\StudentLists\bin\Debug\StudentLists.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\StudentLists\StudentLists\bin\Debug\StudentLists.pdb
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\StudentLists\StudentLists\obj\Debug\StudentLists.csproj.AssemblyReference.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\StudentLists\StudentLists\obj\Debug\StudentLists.csproj.CoreCompileInputs.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\StudentLists\StudentLists\obj\Debug\StudentLists.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\StudentLists\StudentLists\obj\Debug\StudentLists.pdb
+C:\Users\rolux\Desktop\C#\Class Activities\StudentLists\StudentLists\bin\Debug\StudentLists.exe.config
+C:\Users\rolux\Desktop\C#\Class Activities\StudentLists\StudentLists\bin\Debug\StudentLists.exe
+C:\Users\rolux\Desktop\C#\Class Activities\StudentLists\StudentLists\bin\Debug\StudentLists.pdb
+C:\Users\rolux\Desktop\C#\Class Activities\StudentLists\StudentLists\obj\Debug\StudentLists.csproj.AssemblyReference.cache
+C:\Users\rolux\Desktop\C#\Class Activities\StudentLists\StudentLists\obj\Debug\StudentLists.csproj.SuggestedBindingRedirects.cache
+C:\Users\rolux\Desktop\C#\Class Activities\StudentLists\StudentLists\obj\Debug\StudentLists.csproj.CoreCompileInputs.cache
+C:\Users\rolux\Desktop\C#\Class Activities\StudentLists\StudentLists\obj\Debug\StudentLists.exe
+C:\Users\rolux\Desktop\C#\Class Activities\StudentLists\StudentLists\obj\Debug\StudentLists.pdb

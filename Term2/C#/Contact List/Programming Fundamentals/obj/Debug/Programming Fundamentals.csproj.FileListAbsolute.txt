@@ -1,0 +1,92 @@
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 1 - Introduction\Activity 1.1 - Hello World\Hello World\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe.config
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 1 - Introduction\Activity 1.1 - Hello World\Hello World\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 1 - Introduction\Activity 1.1 - Hello World\Hello World\Programming Fundamentals\bin\Debug\Programming Fundamentals.pdb
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 1 - Introduction\Activity 1.1 - Hello World\Hello World\Programming Fundamentals\obj\Debug\Programming Fundamentals.csprojAssemblyReference.cache
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 1 - Introduction\Activity 1.1 - Hello World\Hello World\Programming Fundamentals\obj\Debug\Programming Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 1 - Introduction\Activity 1.1 - Hello World\Hello World\Programming Fundamentals\obj\Debug\Programming Fundamentals.exe
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 1 - Introduction\Activity 1.1 - Hello World\Hello World\Programming Fundamentals\obj\Debug\Programming Fundamentals.pdb
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 1 - Introduction\Activity 1.5.1 - Circle Calculator\CalculateArea\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe.config
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 1 - Introduction\Activity 1.5.1 - Circle Calculator\CalculateArea\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 1 - Introduction\Activity 1.5.1 - Circle Calculator\CalculateArea\Programming Fundamentals\bin\Debug\Programming Fundamentals.pdb
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 1 - Introduction\Activity 1.5.1 - Circle Calculator\CalculateArea\Programming Fundamentals\obj\Debug\Programming Fundamentals.csprojAssemblyReference.cache
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 1 - Introduction\Activity 1.5.1 - Circle Calculator\CalculateArea\Programming Fundamentals\obj\Debug\Programming Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 1 - Introduction\Activity 1.5.1 - Circle Calculator\CalculateArea\Programming Fundamentals\obj\Debug\Programming Fundamentals.exe
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 1 - Introduction\Activity 1.5.1 - Circle Calculator\CalculateArea\Programming Fundamentals\obj\Debug\Programming Fundamentals.pdb
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 3 - Loops\Del\CalculateArea\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe.config
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 3 - Loops\Del\CalculateArea\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 3 - Loops\Del\CalculateArea\Programming Fundamentals\bin\Debug\Programming Fundamentals.pdb
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 3 - Loops\Del\CalculateArea\Programming Fundamentals\obj\Debug\Programming Fundamentals.csprojAssemblyReference.cache
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 3 - Loops\Del\CalculateArea\Programming Fundamentals\obj\Debug\Programming Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 3 - Loops\Del\CalculateArea\Programming Fundamentals\obj\Debug\Programming Fundamentals.exe
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 3 - Loops\Del\CalculateArea\Programming Fundamentals\obj\Debug\Programming Fundamentals.pdb
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 3 - Loops\Del\String2\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe.config
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 3 - Loops\Del\String2\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 3 - Loops\Del\String2\Programming Fundamentals\bin\Debug\Programming Fundamentals.pdb
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 3 - Loops\Del\String2\Programming Fundamentals\obj\Debug\Programming Fundamentals.csprojAssemblyReference.cache
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 3 - Loops\Del\String2\Programming Fundamentals\obj\Debug\Programming Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 3 - Loops\Del\String2\Programming Fundamentals\obj\Debug\Programming Fundamentals.exe
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 3 - Loops\Del\String2\Programming Fundamentals\obj\Debug\Programming Fundamentals.pdb
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 3 - Loops\Del\Activity 3.4.2 - Replace String\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe.config
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 3 - Loops\Del\Activity 3.4.2 - Replace String\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 3 - Loops\Del\Activity 3.4.2 - Replace String\Programming Fundamentals\bin\Debug\Programming Fundamentals.pdb
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 3 - Loops\Del\Activity 3.4.2 - Replace String\Programming Fundamentals\obj\Debug\Programming Fundamentals.csprojAssemblyReference.cache
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 3 - Loops\Del\Activity 3.4.2 - Replace String\Programming Fundamentals\obj\Debug\Programming Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 3 - Loops\Del\Activity 3.4.2 - Replace String\Programming Fundamentals\obj\Debug\Programming Fundamentals.exe
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 3 - Loops\Del\Activity 3.4.2 - Replace String\Programming Fundamentals\obj\Debug\Programming Fundamentals.pdb
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 4 - OOP\Del\Activity 3.4.1 - HTML Tags\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe.config
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 4 - OOP\Del\Activity 3.4.1 - HTML Tags\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 4 - OOP\Del\Activity 3.4.1 - HTML Tags\Programming Fundamentals\bin\Debug\Programming Fundamentals.pdb
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 4 - OOP\Del\Activity 3.4.1 - HTML Tags\Programming Fundamentals\obj\Debug\Programming Fundamentals.csprojAssemblyReference.cache
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 4 - OOP\Del\Activity 3.4.1 - HTML Tags\Programming Fundamentals\obj\Debug\Programming Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 4 - OOP\Del\Activity 3.4.1 - HTML Tags\Programming Fundamentals\obj\Debug\Programming Fundamentals.exe
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 4 - OOP\Del\Activity 3.4.1 - HTML Tags\Programming Fundamentals\obj\Debug\Programming Fundamentals.pdb
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 4 - OOP\Activity 4.3.1 - Contact List\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe.config
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 4 - OOP\Activity 4.3.1 - Contact List\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 4 - OOP\Activity 4.3.1 - Contact List\Programming Fundamentals\bin\Debug\Programming Fundamentals.pdb
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 4 - OOP\Activity 4.3.1 - Contact List\Programming Fundamentals\obj\Debug\Programming Fundamentals.csprojAssemblyReference.cache
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 4 - OOP\Activity 4.3.1 - Contact List\Programming Fundamentals\obj\Debug\Programming Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 4 - OOP\Activity 4.3.1 - Contact List\Programming Fundamentals\obj\Debug\Programming Fundamentals.exe
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 4 - OOP\Activity 4.3.1 - Contact List\Programming Fundamentals\obj\Debug\Programming Fundamentals.pdb
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 4 - OOP\Activity 4.3.1 - Contact List_WithoutLINQ\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe.config
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 4 - OOP\Activity 4.3.1 - Contact List_WithoutLINQ\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 4 - OOP\Activity 4.3.1 - Contact List_WithoutLINQ\Programming Fundamentals\bin\Debug\Programming Fundamentals.pdb
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 4 - OOP\Activity 4.3.1 - Contact List_WithoutLINQ\Programming Fundamentals\obj\Debug\Programming Fundamentals.csprojAssemblyReference.cache
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 4 - OOP\Activity 4.3.1 - Contact List_WithoutLINQ\Programming Fundamentals\obj\Debug\Programming Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 4 - OOP\Activity 4.3.1 - Contact List_WithoutLINQ\Programming Fundamentals\obj\Debug\Programming Fundamentals.exe
+C:\Users\mmurshed\Desktop\Programming Fundamentals C#\Modules\Module 4 - OOP\Activity 4.3.1 - Contact List_WithoutLINQ\Programming Fundamentals\obj\Debug\Programming Fundamentals.pdb
+C:\Users\mmurshed\Desktop\Spring2020\SODV1202\Lecture_05\Contact List - StarterCode\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe.config
+C:\Users\mmurshed\Desktop\Spring2020\SODV1202\Lecture_05\Contact List - StarterCode\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe
+C:\Users\mmurshed\Desktop\Spring2020\SODV1202\Lecture_05\Contact List - StarterCode\Programming Fundamentals\bin\Debug\Programming Fundamentals.pdb
+C:\Users\mmurshed\Desktop\Spring2020\SODV1202\Lecture_05\Contact List - StarterCode\Programming Fundamentals\obj\Debug\Programming Fundamentals.csprojAssemblyReference.cache
+C:\Users\mmurshed\Desktop\Spring2020\SODV1202\Lecture_05\Contact List - StarterCode\Programming Fundamentals\obj\Debug\Programming Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\mmurshed\Desktop\Spring2020\SODV1202\Lecture_05\Contact List - StarterCode\Programming Fundamentals\obj\Debug\Programming Fundamentals.exe
+C:\Users\mmurshed\Desktop\Spring2020\SODV1202\Lecture_05\Contact List - StarterCode\Programming Fundamentals\obj\Debug\Programming Fundamentals.pdb
+C:\Users\mmurshed\Desktop\Summer2021\SODV1202\Class_06\CreateActivity_03\ContactListStarter\Contact List - StarterCode\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe.config
+C:\Users\mmurshed\Desktop\Summer2021\SODV1202\Class_06\CreateActivity_03\ContactListStarter\Contact List - StarterCode\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe
+C:\Users\mmurshed\Desktop\Summer2021\SODV1202\Class_06\CreateActivity_03\ContactListStarter\Contact List - StarterCode\Programming Fundamentals\bin\Debug\Programming Fundamentals.pdb
+C:\Users\mmurshed\Desktop\Summer2021\SODV1202\Class_06\CreateActivity_03\ContactListStarter\Contact List - StarterCode\Programming Fundamentals\obj\Debug\Programming Fundamentals.csprojAssemblyReference.cache
+C:\Users\mmurshed\Desktop\Summer2021\SODV1202\Class_06\CreateActivity_03\ContactListStarter\Contact List - StarterCode\Programming Fundamentals\obj\Debug\Programming Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\mmurshed\Desktop\Summer2021\SODV1202\Class_06\CreateActivity_03\ContactListStarter\Contact List - StarterCode\Programming Fundamentals\obj\Debug\Programming Fundamentals.exe
+C:\Users\mmurshed\Desktop\Summer2021\SODV1202\Class_06\CreateActivity_03\ContactListStarter\Contact List - StarterCode\Programming Fundamentals\obj\Debug\Programming Fundamentals.pdb
+C:\Users\mmurshed\Desktop\Summer2021\SODV1202\Class_06\CreateActivity_03\ContactListSolution\Contact List - StarterCode\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe.config
+C:\Users\mmurshed\Desktop\Summer2021\SODV1202\Class_06\CreateActivity_03\ContactListSolution\Contact List - StarterCode\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe
+C:\Users\mmurshed\Desktop\Summer2021\SODV1202\Class_06\CreateActivity_03\ContactListSolution\Contact List - StarterCode\Programming Fundamentals\bin\Debug\Programming Fundamentals.pdb
+C:\Users\mmurshed\Desktop\Summer2021\SODV1202\Class_06\CreateActivity_03\ContactListSolution\Contact List - StarterCode\Programming Fundamentals\obj\Debug\Programming Fundamentals.csprojAssemblyReference.cache
+C:\Users\mmurshed\Desktop\Summer2021\SODV1202\Class_06\CreateActivity_03\ContactListSolution\Contact List - StarterCode\Programming Fundamentals\obj\Debug\Programming Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\mmurshed\Desktop\Summer2021\SODV1202\Class_06\CreateActivity_03\ContactListSolution\Contact List - StarterCode\Programming Fundamentals\obj\Debug\Programming Fundamentals.exe
+C:\Users\mmurshed\Desktop\Summer2021\SODV1202\Class_06\CreateActivity_03\ContactListSolution\Contact List - StarterCode\Programming Fundamentals\obj\Debug\Programming Fundamentals.pdb
+C:\Users\rolux\Desktop\Contact List - StarterCode\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe.config
+C:\Users\rolux\Desktop\Contact List - StarterCode\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe
+C:\Users\rolux\Desktop\Contact List - StarterCode\Programming Fundamentals\bin\Debug\Programming Fundamentals.pdb
+C:\Users\rolux\Desktop\Contact List - StarterCode\Programming Fundamentals\obj\Debug\Programming Fundamentals.csproj.AssemblyReference.cache
+C:\Users\rolux\Desktop\Contact List - StarterCode\Programming Fundamentals\obj\Debug\Programming Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\rolux\Desktop\Contact List - StarterCode\Programming Fundamentals\obj\Debug\Programming Fundamentals.exe
+C:\Users\rolux\Desktop\Contact List - StarterCode\Programming Fundamentals\obj\Debug\Programming Fundamentals.pdb
+C:\Users\rolux\Desktop\Term 2\SODV1202\Activity 2\Project Folder\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe.config
+C:\Users\rolux\Desktop\Term 2\SODV1202\Activity 2\Project Folder\Programming Fundamentals\bin\Debug\Programming Fundamentals.exe
+C:\Users\rolux\Desktop\Term 2\SODV1202\Activity 2\Project Folder\Programming Fundamentals\bin\Debug\Programming Fundamentals.pdb
+C:\Users\rolux\Desktop\Term 2\SODV1202\Activity 2\Project Folder\Programming Fundamentals\obj\Debug\Programming Fundamentals.csproj.AssemblyReference.cache
+C:\Users\rolux\Desktop\Term 2\SODV1202\Activity 2\Project Folder\Programming Fundamentals\obj\Debug\Programming Fundamentals.csproj.SuggestedBindingRedirects.cache
+C:\Users\rolux\Desktop\Term 2\SODV1202\Activity 2\Project Folder\Programming Fundamentals\obj\Debug\Programming Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\rolux\Desktop\Term 2\SODV1202\Activity 2\Project Folder\Programming Fundamentals\obj\Debug\Programming Fundamentals.exe
+C:\Users\rolux\Desktop\Term 2\SODV1202\Activity 2\Project Folder\Programming Fundamentals\obj\Debug\Programming Fundamentals.pdb

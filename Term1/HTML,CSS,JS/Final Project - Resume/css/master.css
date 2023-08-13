@@ -1,0 +1,386 @@
+/* Default for all */
+* {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100vh - 50px;
+  width: 100vw - 50px;
+}
+
+body {
+  background-image: url('../Images/pexels-matt-hardy-3560168.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  margin-top: 40px;
+}
+
+h3 {
+  font-size: 4vmin;
+  margin: 0 0 5px 5px;
+}
+
+label {
+  font-size: 2.5vmin;
+}
+
+textarea {
+  max-width: 95%;
+  min-width: 27.5%;
+  resize: horizontal;
+}
+
+/* Default navigation bar */
+.navBar {
+  background: rgb(42, 219, 222);
+  position: fixed;
+  overflow: hidden;
+  top: 0;
+  width: 100%;
+}
+
+.navBar a {
+  color: black;
+  display: block;
+  float: left;
+  font-size: 2vmin;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.navBar a:hover {
+  background: rgb(37, 192, 194);
+}
+
+/* Bio page */
+.Bio {
+  background: rgb(191, 251, 245);
+  display: block;
+  width: 70%;
+  margin: 5% 10% 0 10%;
+  padding: 2.5%;
+}
+
+.BioTop a {
+  border: solid black 3px;
+  background: rgb(234, 234, 239);
+  color: black;
+  font-size: 2vmin;
+  padding: .5vmin;
+  text-decoration: none;
+}
+
+.Bio img {
+  border: solid 3px black;
+  border-radius: 50%;
+  height: 25vmin;
+  margin: 1vmin;
+}
+
+.Bio p {
+  margin: 5vmin;
+  font-size: 2.25vmin;
+}
+
+/* Resume page */
+.Resume {
+  background: rgb(229, 237, 239);
+  display: none;
+  width: 70%;
+  margin: 10%;
+  padding: 2.5%;
+}
+
+.ResumeTop {
+  text-align: center;
+}
+
+.ResumeTop img {
+  border: solid 3px black;
+  border-radius: 50%;
+  height: 30vmin;
+  margin: 5%;
+}
+
+.ResumeTop a {
+  border: solid black 3px;
+  background: rgb(234, 234, 239);
+  color: black;
+  font-size: 2vmin;
+  padding: 1vmin;
+  text-decoration: none;
+}
+
+.ResumeSkills {
+  display: grid;
+  font-size: 3vmin;
+  grid-template-columns: auto auto;
+  grid-gap: 5%;
+  margin: 2.5%;
+  padding: 5% 0 5% 15%;
+}
+
+.ResumeSkills ul {
+  margin-left: 5%;
+  margin-right: 5%;
+  width: 90%;
+}
+
+.Resume h4, h5 {
+  display: inline-block;
+  font-size: 3vmin;
+  width: 40%;
+  padding-left: 2.5%;
+}
+
+.WorkExperience, .Education {
+  padding: 0 5%;
+}
+
+.Experience p {
+  font-size: 2.5vmin;
+  width: 85%;
+  padding-left: 5%;
+  padding-bottom: 2.5%;
+  text-align: justify;
+}
+
+/* Contact page */
+.ContactMe {
+  background: rgba(135, 206, 250, 0.8);
+  display: none;
+  margin-left: 10%;
+  margin-top: 10%;
+  padding: 10px;
+  width: 50%;
+  min-width: 400px;
+}
+
+#ContactSection img {
+  display: inline-block;
+  float: right;
+  height: 20vh;
+  max-height: 12vw;
+  margin-top: 2%;
+  margin-right: 4%;
+}
+
+.ContactMe label, .ContactMe input, .ContactMe textarea {
+  display: block;
+  margin-left: 5px;
+}
+
+.ContactMe input, .ContactMe textarea {
+  font-size: 2.25vmin;
+  padding: 3px;
+}
+
+label[for=guestEmail], label[for=txtArea], #submission {
+  margin-top: 10px;
+}
+
+/* Hobbies */
+.Games {
+  background: rgba(224, 255, 255, 0.8);
+  display: block;
+  width: 70%;
+  margin: 10%;
+  padding: 2.5%;
+  overflow: auto;
+}
+
+.Film {
+  background: rgba(246, 251, 255, 0.5);
+  display: none;
+  width: 70%;
+  margin: 10%;
+  padding: 2.5%;
+  overflow: auto;
+}
+
+.Fantasy {
+  background: rgba(246, 251, 251, 0.5);
+  display: none;
+  width: 70%;
+  margin: 10%;
+  padding: 2.5%;
+  overflow: auto;
+}
+
+.Games p, .Film p, .Fantasy p {
+  font-size: 2.5vmin;
+  width: 90%;
+  padding-left: 5%;
+  padding-bottom: 2.5%;
+  text-align: justify;
+}
+
+.Games h4, .Film h4, .Fantasy h4 {
+  display: inline-block;
+  font-size: 3vmin;
+}
+
+.Video, .Tabletop, .Roleplaying, .Books {
+  margin-top: 5vmin;
+  width: 85%;
+}
+
+.gamesImage, .filmImage, .fantasyImage {
+  border: solid black .25vmin;
+  margin: 1vmin;
+  padding: .5vmin;
+}
+
+.gamesImage p, .filmImage p, .fantasyImage p {
+  text-align: center;
+}
+
+.Games img, .Film img, .Fantasy img {
+  height: 20vmin;
+}
+
+/* My favourites */
+.aside {
+  font-size: 2.25vmin;
+  margin-top: 15vmin;
+  width: 15%;
+}
+
+.aside li {
+  padding: .5vmin 0;
+}
+
+.aside h5 {
+  font-size: 2.25vmin;
+  width: 100%;
+}
+
+/* Film Area */
+.Film h4 {
+  text-decoration: underline;
+}
+
+.FilmSection {
+  margin-top: 5vmin;
+  width: 85%;
+}
+
+.FilmSection h5 {
+  display: flex;
+  font-size: 2.65vmin;
+  padding: 0 0 2vmin 5vmin;
+  width: auto;
+}
+
+.Movies, .Television {
+  margin-top: 5vmin;
+  width: 100%;
+}
+
+/* Resume button */
+.myButton {
+  box-shadow: inset 0px 1px 0px 0px #bee2f9;
+  background: linear-gradient(to bottom, #63b8ee 5%, #468ccf 100%);
+  background-color: #63b8ee;
+  border-radius: 6px;
+  border: 1px solid #3866a3;
+  display: inline-block;
+  cursor: pointer;
+  color: #14396a;
+  font-family: Arial;
+  font-size: 1.5vmin;
+  font-weight: bold;
+  padding: 1vmin 3.25vmin;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #7cacde;
+}
+
+.myButton:hover {
+  background: linear-gradient(to bottom, #468ccf 5%, #63b8ee 100%);
+  background-color: #468ccf;
+}
+
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
+
+/* JS Cheat sheet top navigation bar */
+.navBarJS {
+  background: rgb(42, 219, 222);
+  position: fixed;
+  overflow: hidden;
+  top: 0;
+  width: 100%;
+}
+
+.navBarJS a {
+  color: black;
+  display: block;
+  float: left;
+  font-size: 2vmin;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.navBarJS a:hover {
+  background: rgb(37, 192, 194);
+}
+
+/* Side navigation bar */
+.sideBarJS {
+  display: grid;
+  background: rgb(42, 219, 222);
+  position: fixed;
+  overflow: hidden;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 15%;
+}
+
+.sideBarJS a {
+  color: black;
+  clear: both;
+  display: block;
+  float: left;
+  font-size: 2vmin;
+  padding: 3vmin;
+  text-decoration: none;
+}
+
+.sideBarJS a:hover {
+  background: rgb(37, 192, 194);
+}
+
+/* Javascript cheat sheet page */
+.bodyJS {
+  background: rgba(224, 255, 255, 0.8);
+  display: block;
+  font-size: 2.25vmin;
+  line-height: 1.5;
+  margin: 5% 12.5% 5% 22.5%;
+  padding: 2.5%;
+  overflow: auto;
+  width: 65%;
+}
+
+.bodyJS p {
+  font-size: 2.25vmin;
+  padding: 2.5vmin;
+}
+
+.home {
+  display: block;
+}
+
+/* Hide all other divs */
+.DOM, .strings, .print, .declarations, .functions, .loops, .objects, .conversions, .comparisons, .dates {
+  display: none;
+}

@@ -1,0 +1,14 @@
+body{
+  background: black;
+}
+
+img{
+  height: 95vh;
+  width: 95vw;
+}
+
+.container{
+  height: 95vh;
+  width: 95vw;
+  margin: 0 auto;
+}

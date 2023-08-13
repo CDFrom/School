@@ -1,0 +1,53 @@
+:root {
+  /*This will take the shorter of the two values to keep all the squares inside the page*/
+  --width: calc(min(calc(100vh - 75px), calc(100vw)) / 7);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  width: 100vw;
+}
+
+.title {
+  background-color: green;
+  color: white;
+  width: calc(var(--width)*7);
+}
+
+.title h1 {
+  color: blue;
+}
+
+#Box1 {
+  background: red;
+  border: solid 5px black;
+  color: blue;
+  height: calc(var(--width) - 20px);
+  width: calc(var(--width) - 10px);
+  padding: 5px 0;
+}
+
+#Box2 {
+  background: green;
+  border: solid 10px lightpink;
+  color: blue;
+  height: calc(var(--width)*2 - 40px);
+  width: calc(var(--width)*2 - 40px);
+  margin-left: var(--width);
+  padding: 10px;
+}
+
+#Box3 {
+  background: blue;
+  border: solid 20px magenta;
+  color: green;
+  height: calc(var(--width)*4 - 100px);
+  width: calc(var(--width)*4 - 100px);
+  margin-left: calc(var(--width) + (var(--width)*2));
+  padding: 30px;
+}

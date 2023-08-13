@@ -1,0 +1,15 @@
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\StringPracticeProblem\StringPracticeProblem\bin\Debug\StringPracticeProblem.exe.config
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\StringPracticeProblem\StringPracticeProblem\bin\Debug\StringPracticeProblem.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\StringPracticeProblem\StringPracticeProblem\bin\Debug\StringPracticeProblem.pdb
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\StringPracticeProblem\StringPracticeProblem\obj\Debug\StringPracticeProblem.csproj.AssemblyReference.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\StringPracticeProblem\StringPracticeProblem\obj\Debug\StringPracticeProblem.csproj.CoreCompileInputs.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\StringPracticeProblem\StringPracticeProblem\obj\Debug\StringPracticeProblem.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\StringPracticeProblem\StringPracticeProblem\obj\Debug\StringPracticeProblem.pdb
+C:\Users\rolux\Desktop\C#\Class Activities\StringPracticeProblem\StringPracticeProblem\bin\Debug\StringPracticeProblem.exe.config
+C:\Users\rolux\Desktop\C#\Class Activities\StringPracticeProblem\StringPracticeProblem\bin\Debug\StringPracticeProblem.exe
+C:\Users\rolux\Desktop\C#\Class Activities\StringPracticeProblem\StringPracticeProblem\bin\Debug\StringPracticeProblem.pdb
+C:\Users\rolux\Desktop\C#\Class Activities\StringPracticeProblem\StringPracticeProblem\obj\Debug\StringPracticeProblem.csproj.AssemblyReference.cache
+C:\Users\rolux\Desktop\C#\Class Activities\StringPracticeProblem\StringPracticeProblem\obj\Debug\StringPracticeProblem.csproj.SuggestedBindingRedirects.cache
+C:\Users\rolux\Desktop\C#\Class Activities\StringPracticeProblem\StringPracticeProblem\obj\Debug\StringPracticeProblem.csproj.CoreCompileInputs.cache
+C:\Users\rolux\Desktop\C#\Class Activities\StringPracticeProblem\StringPracticeProblem\obj\Debug\StringPracticeProblem.exe
+C:\Users\rolux\Desktop\C#\Class Activities\StringPracticeProblem\StringPracticeProblem\obj\Debug\StringPracticeProblem.pdb

@@ -1,0 +1,15 @@
+C:\Users\rolux\Desktop\Code\RAD Assignments\Assignment 1 - Simon\Assignment 1 CFrom\Assignment 1 CFrom\bin\Debug\Assignment 1 CFrom.exe.config
+C:\Users\rolux\Desktop\Code\RAD Assignments\Assignment 1 - Simon\Assignment 1 CFrom\Assignment 1 CFrom\bin\Debug\Assignment 1 CFrom.exe
+C:\Users\rolux\Desktop\Code\RAD Assignments\Assignment 1 - Simon\Assignment 1 CFrom\Assignment 1 CFrom\bin\Debug\Assignment 1 CFrom.pdb
+C:\Users\rolux\Desktop\Code\RAD Assignments\Assignment 1 - Simon\Assignment 1 CFrom\Assignment 1 CFrom\obj\Debug\Assignment 1 CFrom.csproj.AssemblyReference.cache
+C:\Users\rolux\Desktop\Code\RAD Assignments\Assignment 1 - Simon\Assignment 1 CFrom\Assignment 1 CFrom\obj\Debug\Assignment 1 CFrom.csproj.SuggestedBindingRedirects.cache
+C:\Users\rolux\Desktop\Code\RAD Assignments\Assignment 1 - Simon\Assignment 1 CFrom\Assignment 1 CFrom\obj\Debug\Assignment_1_CFrom.menu.resources
+C:\Users\rolux\Desktop\Code\RAD Assignments\Assignment 1 - Simon\Assignment 1 CFrom\Assignment 1 CFrom\obj\Debug\Assignment_1_CFrom.Properties.Resources.resources
+C:\Users\rolux\Desktop\Code\RAD Assignments\Assignment 1 - Simon\Assignment 1 CFrom\Assignment 1 CFrom\obj\Debug\Assignment 1 CFrom.csproj.GenerateResource.cache
+C:\Users\rolux\Desktop\Code\RAD Assignments\Assignment 1 - Simon\Assignment 1 CFrom\Assignment 1 CFrom\obj\Debug\Assignment 1 CFrom.csproj.CoreCompileInputs.cache
+C:\Users\rolux\Desktop\Code\RAD Assignments\Assignment 1 - Simon\Assignment 1 CFrom\Assignment 1 CFrom\obj\Debug\Assignment 1 CFrom.exe
+C:\Users\rolux\Desktop\Code\RAD Assignments\Assignment 1 - Simon\Assignment 1 CFrom\Assignment 1 CFrom\obj\Debug\Assignment 1 CFrom.pdb
+C:\Users\rolux\Desktop\Code\RAD Assignments\Assignment 1 - Simon\Assignment 1 CFrom\Assignment 1 CFrom\obj\Debug\Assignment_1_CFrom.FinalScore.resources
+C:\Users\rolux\Desktop\Code\RAD Assignments\Assignment 1 - Simon\Assignment 1 CFrom\Assignment 1 CFrom\obj\Debug\Assignment_1_CFrom.HighScores.resources
+C:\Users\rolux\Desktop\Code\RAD Assignments\Assignment 1 - Simon\Assignment 1 CFrom\Assignment 1 CFrom\obj\Debug\Assignment_1_CFrom.NewHighScore.resources
+C:\Users\rolux\Desktop\Code\RAD Assignments\Assignment 1 - Simon\Assignment 1 CFrom\Assignment 1 CFrom\obj\Debug\Assignment_1_CFrom.MainForm.resources

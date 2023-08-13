@@ -1,0 +1,15 @@
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\StaticTesting\StaticTesting\bin\Debug\StaticTesting.exe.config
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\StaticTesting\StaticTesting\bin\Debug\StaticTesting.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\StaticTesting\StaticTesting\bin\Debug\StaticTesting.pdb
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\StaticTesting\StaticTesting\obj\Debug\StaticTesting.csproj.AssemblyReference.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\StaticTesting\StaticTesting\obj\Debug\StaticTesting.csproj.CoreCompileInputs.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\StaticTesting\StaticTesting\obj\Debug\StaticTesting.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\StaticTesting\StaticTesting\obj\Debug\StaticTesting.pdb
+C:\Users\rolux\Desktop\C#\Class Activities\StaticTesting\StaticTesting\bin\Debug\StaticTesting.exe.config
+C:\Users\rolux\Desktop\C#\Class Activities\StaticTesting\StaticTesting\bin\Debug\StaticTesting.exe
+C:\Users\rolux\Desktop\C#\Class Activities\StaticTesting\StaticTesting\bin\Debug\StaticTesting.pdb
+C:\Users\rolux\Desktop\C#\Class Activities\StaticTesting\StaticTesting\obj\Debug\StaticTesting.csproj.AssemblyReference.cache
+C:\Users\rolux\Desktop\C#\Class Activities\StaticTesting\StaticTesting\obj\Debug\StaticTesting.csproj.SuggestedBindingRedirects.cache
+C:\Users\rolux\Desktop\C#\Class Activities\StaticTesting\StaticTesting\obj\Debug\StaticTesting.csproj.CoreCompileInputs.cache
+C:\Users\rolux\Desktop\C#\Class Activities\StaticTesting\StaticTesting\obj\Debug\StaticTesting.exe
+C:\Users\rolux\Desktop\C#\Class Activities\StaticTesting\StaticTesting\obj\Debug\StaticTesting.pdb

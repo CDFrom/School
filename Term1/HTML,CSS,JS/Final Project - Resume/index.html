@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <title>Colin's Profile Page</title>
+    <link rel="stylesheet" href="css/master.css" />
+  </head>
+
+  <body>
+    <div class="header">
+      <!-- Navigation bar setup -->
+      <div class="navBar">
+        <a id="MyBio" href="#">My Bio</a>
+        <a id="MyResume" href="#">My Resume</a>
+        <a id="ContactMe" href="#">Get in touch!</a>
+        <a href="javascript cheat sheet.html" style="float: right"
+          >My Javascript Cheat Sheet</a
+        >
+        <a href="hobbies.html" style="float: right">My Hobbies</a>
+      </div>
+    </div>
+
+    <div class="body">
+      <!-- Bio section -->
+      <div class="Bio" id="BioSection">
+        <div class="BioTop" style="text-align: center">
+          <h2 style="font-size: 4vmin">Colin From</h2>
+          <img
+            src="./Images/FB_profile.jpg"
+            alt="Facebook Profile Picture of Colin From"
+          /><br />
+          <a href="https://www.facebook.com/Colin.From96/" target="_blank"
+            >Find me on Facebook</a
+          >
+        </div>
+        <p>
+          My name is Colin and I am still quite new to the world of coding. I am
+          currently attending the Software Development Diploma Program at Bow
+          Valley College in order to achieve the information I need to pursue a
+          career in Software Development.<br />
+          I have worked in a variety of work environments doing a number of
+          different jobs up until this point. A few of the areas I have
+          experience working in are concessions, warehouse operations, lot
+          coordination and steamfitting.<br />
+          I have been on a computer for a long time now and I was always
+          intrigued with the idea of designing programs and applications both to
+          assist people in their day to day lives and bring fun and
+          entertainment.<br />
+          I have a passion for video games, math and puzzles and I think this is
+          a large part of what has attracted me to this field of work. I am
+          excited for my future and cannot wait to get out there and show the
+          world what I can do.
+        </p>
+        <button
+          class="myButton"
+          type="button"
+          name="button"
+          onclick="showResume()"
+          style="display: block; margin: auto"
+        >
+          View My Resume
+        </button>
+      </div>
+      <!-- Resume Section -->
+      <div class="Resume" id="ResumeSection">
+        <div class="ResumeTop">
+          <h2 style="font-size: 6vmin">Colin From</h2>
+          <img
+            src="./Images/LI_profile.jpeg"
+            alt="LinkedIn Profile Picture"
+          /><br />
+          <a
+            href="https://www.linkedin.com/in/colin-from-6b235a21b/"
+            target="_blank"
+            >Find me on LinkedIn</a
+          >
+        </div>
+        <!-- Skills -->
+        <div class="ResumeSkills">
+          <div class="Skills">
+            <h3>Skills</h3>
+            <ul type="none">
+              <li>Teamwork</li>
+              <li>Adaptability</li>
+              <li>Critical Thinking</li>
+              <li>Problem Solving</li>
+              <li>Conflict Resolution</li>
+            </ul>
+          </div>
+          <!-- Programming languages -->
+          <div class="Languages">
+            <h3>Programming Languages</h3>
+            <ul type="none">
+              <li>C++</li>
+              <li>HTML</li>
+              <li>CSS</li>
+              <li>JavaScript</li>
+            </ul>
+          </div>
+        </div>
+        <!-- Experience -->
+        <div class="ResumeExperience">
+          <!-- Work experience -->
+          <div class="WorkExperience">
+            <h3>Work Experience</h3>
+            <div class="Experience">
+              <h4>Compass Energy</h4>
+              <h5 style="text-align: right">2018-2021</h5>
+              <p>
+                My time at Compass Energy was one of my biggest workplace
+                learning experiences to this day. I started off as a laborer
+                with very little knowledge and little to no skills, but in my 3
+                years there I gained a plethora of knowledge and skills and came
+                out as a third year apprentice steamfitter. I worked in a
+                variety of areas including shipping and receiving, hydro
+                testing, and assembly. I also obtained training in operating
+                forklifts and overhead cranes. In my time there I further
+                developed skills such as working in a fast paced environment,
+                working in both large and small team settings and learning to
+                adapt quickly based on the situation.
+              </p>
+            </div>
+            <div class="Experience">
+              <h4>CanaDream</h4>
+              <h5 style="text-align: right">2017-2018</h5>
+              <p>
+                My time at CanaDream was a shorter experience but really helped
+                me further develop some critical skills. Every day was a
+                different experience with new problems and new solutions to be
+                found. I was able to not only work with groups of different
+                people within the company but also new people from all around
+                the world. Working in a fast paced environment where the
+                situation could change at any moment really helped me focus on
+                my critical thinking and problem solving. Another important
+                development was my social skills including conflict resolution
+                both with staff and guests. Overall my time there taught me a
+                lot about being able to think things through quickly and come to
+                a resolution everyone could agree on.
+              </p>
+            </div>
+            <div class="Experience">
+              <h4>Calaway Park</h4>
+              <h5 style="text-align: right">2012-2016</h5>
+              <p>
+                I had the pleasure of working at Calaway Park for 4 summer
+                seasons and as part of my early work experience I can say that
+                it had a major impact on how I perform at work to this very day.
+                I worked and assisted in multiple departments in my time there
+                and in turn was able to begin to learn and develop key skills
+                that would continue to help me not only in the workplace but
+                also outside of it. General work ethic as well as teamwork and
+                leadership skills, problem solving and critical thinking.
+              </p>
+            </div>
+          </div>
+          <!-- Education -->
+          <div class="Education" style="margin-top: 5%">
+            <h3>Education</h3>
+            <div class="Experience">
+              <h4>Bow Valley College</h4>
+              <h5 style="text-align: right">2021-Present</h5>
+              <p>Software Development Diploma</p>
+            </div>
+            <div class="Experience">
+              <h4>SAIT</h4>
+              <h5 style="text-align: right">2020-2021</h5>
+              <p>Second Year Steamfitting</p>
+            </div>
+            <div class="Experience">
+              <h4>Heritage Christian Academy</h4>
+              <h5 style="text-align: right">2014</h5>
+              <p>High School Diploma</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Form for getting in touch -->
+      <div class="ContactMe" id="ContactSection">
+        <img src="Images/pexels-karolina-grabowska-5706021.jpg" alt="Letter" />
+        <h3 id="test">Let's Chat!</h3>
+        <form class="contactForm" action="index.html" method="post">
+          <label for="guestName">Your Name</label>
+          <input
+            type="text"
+            name="guestName"
+            id="guestName"
+            value=""
+            placeholder="Your name"
+          />
+          <label for="guestEmail">Your Email</label>
+          <input
+            type="email"
+            name="guestEmail"
+            id="guestEmail"
+            value=""
+            placeholder="Your email address"
+          />
+          <label for="txtArea">Your Message To Me</label>
+          <textarea
+            name="txtArea"
+            id="txtArea"
+            rows="12"
+            style="width: 100%"
+            placeholder="Enter your message"
+          ></textarea>
+          <input id="submission" type="submit" value="Submit" />
+        </form>
+      </div>
+    </div>
+    <script src="js/script.js"></script>
+  </body>
+</html>

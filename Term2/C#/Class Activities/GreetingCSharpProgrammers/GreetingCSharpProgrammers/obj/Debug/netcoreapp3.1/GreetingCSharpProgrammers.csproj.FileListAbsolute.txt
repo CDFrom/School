@@ -1,0 +1,14 @@
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\GreetingCSharpProgrammers\GreetingCSharpProgrammers\obj\Debug\netcoreapp3.1\GreetingCSharpProgrammers.csproj.AssemblyReference.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\GreetingCSharpProgrammers\GreetingCSharpProgrammers\obj\Debug\netcoreapp3.1\GreetingCSharpProgrammers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\GreetingCSharpProgrammers\GreetingCSharpProgrammers\obj\Debug\netcoreapp3.1\GreetingCSharpProgrammers.AssemblyInfoInputs.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\GreetingCSharpProgrammers\GreetingCSharpProgrammers\obj\Debug\netcoreapp3.1\GreetingCSharpProgrammers.AssemblyInfo.cs
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\GreetingCSharpProgrammers\GreetingCSharpProgrammers\obj\Debug\netcoreapp3.1\GreetingCSharpProgrammers.csproj.CoreCompileInputs.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\GreetingCSharpProgrammers\GreetingCSharpProgrammers\bin\Debug\netcoreapp3.1\GreetingCSharpProgrammers.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\GreetingCSharpProgrammers\GreetingCSharpProgrammers\bin\Debug\netcoreapp3.1\GreetingCSharpProgrammers.deps.json
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\GreetingCSharpProgrammers\GreetingCSharpProgrammers\bin\Debug\netcoreapp3.1\GreetingCSharpProgrammers.runtimeconfig.json
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\GreetingCSharpProgrammers\GreetingCSharpProgrammers\bin\Debug\netcoreapp3.1\GreetingCSharpProgrammers.runtimeconfig.dev.json
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\GreetingCSharpProgrammers\GreetingCSharpProgrammers\bin\Debug\netcoreapp3.1\GreetingCSharpProgrammers.dll
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\GreetingCSharpProgrammers\GreetingCSharpProgrammers\bin\Debug\netcoreapp3.1\GreetingCSharpProgrammers.pdb
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\GreetingCSharpProgrammers\GreetingCSharpProgrammers\obj\Debug\netcoreapp3.1\GreetingCSharpProgrammers.dll
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\GreetingCSharpProgrammers\GreetingCSharpProgrammers\obj\Debug\netcoreapp3.1\GreetingCSharpProgrammers.pdb
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\GreetingCSharpProgrammers\GreetingCSharpProgrammers\obj\Debug\netcoreapp3.1\GreetingCSharpProgrammers.genruntimeconfig.cache

@@ -1,0 +1,30 @@
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 1\Assignment 1 CFrom\Assignment 1 CFrom\obj\Debug\Assignment 1.csproj.AssemblyReference.cache
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 1\Assignment 1 CFrom\Assignment 1 CFrom\obj\Debug\Assignment 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 1\Assignment 1 CFrom\Assignment 1 CFrom\obj\Debug\Assignment_1_CFrom.FinalScore.resources
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 1\Assignment 1 CFrom\Assignment 1 CFrom\obj\Debug\Assignment_1_CFrom.HighScores.resources
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 1\Assignment 1 CFrom\Assignment 1 CFrom\obj\Debug\Assignment_1_CFrom.menu.resources
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 1\Assignment 1 CFrom\Assignment 1 CFrom\obj\Debug\Assignment_1_CFrom.MainForm.resources
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 1\Assignment 1 CFrom\Assignment 1 CFrom\obj\Debug\Assignment_1_CFrom.NewHighScore.resources
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 1\Assignment 1 CFrom\Assignment 1 CFrom\obj\Debug\Assignment 1.csproj.GenerateResource.cache
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 1\Assignment 1 CFrom\Assignment 1 CFrom\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 1\Assignment 1 CFrom\Assignment 1 CFrom\bin\Debug\Assignment 1.exe.config
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 1\Assignment 1 CFrom\Assignment 1 CFrom\bin\Debug\Assignment 1.exe
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 1\Assignment 1 CFrom\Assignment 1 CFrom\bin\Debug\Assignment 1.pdb
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 1\Assignment 1 CFrom\Assignment 1 CFrom\obj\Debug\Assignment_1.Properties.Resources.resources
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 1\Assignment 1 CFrom\Assignment 1 CFrom\obj\Debug\Assignment 1.exe
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 1\Assignment 1 CFrom\Assignment 1 CFrom\obj\Debug\Assignment 1.pdb
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 1\Assignment 1 CFrom\Assignment 1\bin\Debug\Assignment 1.exe.config
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 1\Assignment 1 CFrom\Assignment 1\bin\Debug\Assignment 1.exe
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 1\Assignment 1 CFrom\Assignment 1\bin\Debug\Assignment 1.pdb
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 1\Assignment 1 CFrom\Assignment 1\obj\Debug\Assignment 1.csproj.AssemblyReference.cache
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 1\Assignment 1 CFrom\Assignment 1\obj\Debug\Assignment 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 1\Assignment 1 CFrom\Assignment 1\obj\Debug\Assignment_1.FinalScore.resources
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 1\Assignment 1 CFrom\Assignment 1\obj\Debug\Assignment_1.HighScores.resources
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 1\Assignment 1 CFrom\Assignment 1\obj\Debug\Assignment_1.menu.resources
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 1\Assignment 1 CFrom\Assignment 1\obj\Debug\Assignment_1.MainForm.resources
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 1\Assignment 1 CFrom\Assignment 1\obj\Debug\Assignment_1.NewHighScore.resources
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 1\Assignment 1 CFrom\Assignment 1\obj\Debug\Assignment_1.Properties.Resources.resources
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 1\Assignment 1 CFrom\Assignment 1\obj\Debug\Assignment 1.csproj.GenerateResource.cache
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 1\Assignment 1 CFrom\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 1\Assignment 1 CFrom\Assignment 1\obj\Debug\Assignment 1.exe
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 1\Assignment 1 CFrom\Assignment 1\obj\Debug\Assignment 1.pdb

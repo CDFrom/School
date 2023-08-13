@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Assignment 1 Weather</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <!--Header Creation-->
+    <header>
+      <h1>Assignment 1</h1>
+      <h3>Colin From</h3>
+    </header>
+
+    <!---Navbar Creation-->
+    <nav>
+      <a id="homePage" href="index.html">Home Page</a>
+      <a href="markToGradeConverter.html">Mark to Grade Converter</a>
+      <a href="staff.html">Staff</a>
+      <a href="weather.html">Weather</a>
+    </nav>
+
+    <!--Begin Content-->
+    <section class="content">
+      <!--Input Section-->
+      <div class="contentSection">
+        <label for="inputTemp">Enter Temperature to Convert: </label>
+        <input type="text" id="inputTemp" placeholder="Temperature..." />
+      </div>
+
+      <!--Button For Starting Function-->
+      <div class="contentSection">
+        <button onclick="converter('doFahToCel')">Fahrenheit to Celsius</button>
+        <button onclick="converter('doCelToKel')">Celsius to Kelvin</button>
+      </div>
+
+      <!--Show Output From Function-->
+      <div class="contentSection">
+        <p id="tempOutput"></p>
+      </div>
+    </section>
+
+    <!--Footer Creation-->
+    <footer>
+      <hr />
+      <p><span id="currentDate">This is a date</span></p>
+      <p>© 2022 Colin From</p>
+    </footer>
+
+    <!--Link scripting-->
+    <script src="SODV1201_A1.js"></script>
+  </body>
+</html>

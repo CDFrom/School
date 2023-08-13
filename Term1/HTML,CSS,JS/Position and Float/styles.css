@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background: lightblue;
+  padding: 50px;
+  text-align: justify;
+}
+
+h1{
+  margin: 20px 0;
+  text-align: center;
+}
+
+h2{
+  clear: both;
+  margin: 0;
+}
+
+.topleft{
+  float: left;
+  margin: 20px 20px 20px 0;
+}
+
+.main{
+  margin-top: 20px;
+}
+
+.bottom{
+  clear: both;
+}

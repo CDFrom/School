@@ -1,0 +1,14 @@
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Day 5\NotePadGUI1\NotePadGUI1\bin\Debug\MainForm.resx
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Day 5\NotePadGUI1\NotePadGUI1\bin\Debug\MainForm.cs
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Day 5\NotePadGUI1\NotePadGUI1\bin\Debug\MainForm.Designer.cs
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Day 5\NotePadGUI1\NotePadGUI1\bin\Debug\NotePadGUI1.exe.config
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Day 5\NotePadGUI1\NotePadGUI1\bin\Debug\NotePadGUI1.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Day 5\NotePadGUI1\NotePadGUI1\bin\Debug\NotePadGUI1.pdb
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Day 5\NotePadGUI1\NotePadGUI1\obj\Debug\NotePadGUI1.csproj.AssemblyReference.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Day 5\NotePadGUI1\NotePadGUI1\obj\Debug\NotePadGUI1.MainForm.resources
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Day 5\NotePadGUI1\NotePadGUI1\obj\Debug\NotePadGUI1.Properties.Resources.resources
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Day 5\NotePadGUI1\NotePadGUI1\obj\Debug\NotePadGUI1.csproj.GenerateResource.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Day 5\NotePadGUI1\NotePadGUI1\obj\Debug\NotePadGUI1.csproj.CoreCompileInputs.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Day 5\NotePadGUI1\NotePadGUI1\obj\Debug\NotePadGUI1.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Day 5\NotePadGUI1\NotePadGUI1\obj\Debug\NotePadGUI1.pdb
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Day 5\NotePadGUI1\NotePadGUI1\obj\Debug\NotePadGUI1.NewWindow.resources

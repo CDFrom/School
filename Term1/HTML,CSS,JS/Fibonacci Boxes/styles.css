@@ -1,0 +1,102 @@
+:root {
+  --height1: calc(100vh/21*1);
+  --height2: calc(100vh/21*2);
+  --height3: calc(100vh/21*3);
+  --height5: calc(100vh/21*5);
+  --height8: calc(100vh/21*8);
+  --height13: calc(100vh/21*13);
+  --height21: calc(100vh/21*21);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  width: 100vw;
+}
+
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.div1 {
+  font-size: 10px;
+  background: red;
+  width: var(--height1);
+  height: var(--height1);
+  position: absolute;
+  left: calc(var(--height21) + var(--height3));
+  top: calc(var(--height13) + var(--height2));
+}
+
+.div11 {
+  font-size: 10px;
+  background: cyan;
+  width: var(--height1);
+  height: var(--height1);
+  position: absolute;
+  left: calc(var(--height21) + var(--height3) + var(--height1));
+  top: calc(var(--height13) + var(--height2));
+}
+
+.div2 {
+  font-size: 20px;
+  background: orange;
+  width: var(--height2);
+  height: var(--height2);
+  position: absolute;
+  left: calc(var(--height21) + var(--height3));
+  top: var(--height13);
+}
+
+.div3 {
+  font-size: 30px;
+  background: green;
+  width: var(--height3);
+  height: var(--height3);
+  position: absolute;
+  left: var(--height21);
+  top: var(--height13);
+}
+
+.div5 {
+  font-size: 50px;
+  background: blue;
+  width: var(--height5);
+  height: var(--height5);
+  position: absolute;
+  left: var(--height21);
+  top: calc(var(--height13) + var(--height3));
+}
+
+.div8 {
+  font-size: 80px;
+  background: magenta;
+  width: var(--height8);
+  height: var(--height8);
+  position: absolute;
+  left: calc(var(--height21) + var(--height5));
+  top: var(--height13);
+}
+
+.div13 {
+  font-size: 130px;
+  background: skyblue;
+  width: var(--height13);
+  height: var(--height13);
+  position: absolute;
+  left: var(--height21);
+}
+
+.div21 {
+  font-size: 210px;
+  background: lightgrey;
+  width: var(--height21);
+  height: var(--height21);
+  position: absolute;
+}

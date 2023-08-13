@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TmjwpwzlfJaNrEKEdlh9JdCTmylW6v5xN/zczeYHlFTQrzibW81Yn1VudyoDV1wVLKm6XkGodVOHToVb6P4MBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rolux\\Desktop\\Term 3\\SODV2202\\Week 13 Day 2\\02clientserver\\clientserver\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rolux\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512",
+    "C:\\Users\\rolux\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\rolux\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\rolux\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

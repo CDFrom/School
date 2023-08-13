@@ -1,0 +1,82 @@
+/*
+Please use a combination of color assignments using:
+1. Color by Name
+2. Color by HexCode
+3. Color by RGB method
+4. Color by RGBA method
+*/
+
+
+body{
+  background-attachment: fixed;
+  background-image: url(https://images.pexels.com/photos/259915/pexels-photo-259915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 80%;
+  padding: 1% 5% 5% 10%;
+  /*
+  use the background image from here: https://images.pexels.com/photos/259915/pexels-photo-259915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
+  */
+}
+
+h1{
+  background-color: #000000;
+  color: Orange;
+  font-size: 3em;
+  padding: 15px;
+  /*
+  set heading color and background color
+  */
+}
+
+h2{
+  background-color: rgba(25, 125, 75, 0.75);
+  color: rgb(175, 75, 125);
+  font-size: 1.5em;
+  /*
+  set heading color and background color
+  */
+}
+
+h5{
+  background-color: skyblue;
+  color: #F7B9D5;
+  font-size: 1em;
+  /*
+  set heading color and background color
+  */
+}
+
+.top{
+  background-color: rgba(169, 72, 132, 0.5);
+  color: #00A57C;
+  font-size: 1.5em;
+  padding: 20px;
+  /*
+  set paragraph color and background color
+  */
+
+}
+
+.body{
+  background-color: rgba(255, 75, 0, 0.25);
+  color: rgb(75, 255, 75);
+  font-size: 1.5em;
+  padding: 20px;
+  /*
+  set paragraph color and background color
+  */
+
+}
+
+.last{
+  background-color: indigo;
+  color: violet;
+  font-size: 1.5em;
+  padding: 20px;
+  /*
+  set paragraph color and background color
+  */
+
+}

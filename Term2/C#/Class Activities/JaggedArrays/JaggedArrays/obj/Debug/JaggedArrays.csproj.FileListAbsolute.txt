@@ -1,0 +1,7 @@
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\JaggedArrays\JaggedArrays\bin\Debug\JaggedArrays.exe.config
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\JaggedArrays\JaggedArrays\bin\Debug\JaggedArrays.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\JaggedArrays\JaggedArrays\bin\Debug\JaggedArrays.pdb
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\JaggedArrays\JaggedArrays\obj\Debug\JaggedArrays.csproj.AssemblyReference.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\JaggedArrays\JaggedArrays\obj\Debug\JaggedArrays.csproj.CoreCompileInputs.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\JaggedArrays\JaggedArrays\obj\Debug\JaggedArrays.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\JaggedArrays\JaggedArrays\obj\Debug\JaggedArrays.pdb

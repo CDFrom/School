@@ -1,0 +1,58 @@
+:root
+{
+  --divHeight: calc((100vh - 74px)/3);
+}
+
+
+*
+{
+  margin: 0;
+  padding: 0;
+}
+
+body
+{
+  height: 100vh;
+}
+
+h1
+{
+
+}
+
+p{
+
+}
+
+.title
+{
+background-color: green;
+padding-left: 20px;
+}
+
+#TopDiv
+{
+  width: calc(50% - 6px);
+  height: calc(var(--divHeight) - 6px);
+  border: solid 3px blue;
+  background: red;
+}
+
+#MiddleDiv
+{
+  width: calc(50% - 40px);
+  height: calc(var(--divHeight) - 40px);
+  border: solid 10px lightpink;
+  padding: 10px;
+  background: green;
+  margin-left: 50%;
+}
+
+#BottomDiv
+{
+  width: calc(50% - 100px);
+  height: calc(var(--divHeight) - 100px);
+  border: solid 20px magenta;
+  padding: 30px;
+  background: blue;
+}

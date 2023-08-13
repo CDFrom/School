@@ -1,0 +1,7 @@
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\InitializingStudentClass\InitializingStudentClass\obj\Debug\InitializingStudentClass.csproj.AssemblyReference.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\InitializingStudentClass\InitializingStudentClass\obj\Debug\InitializingStudentClass.csproj.CoreCompileInputs.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\InitializingStudentClass\InitializingStudentClass\bin\Debug\InitializingStudentClass.exe.config
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\InitializingStudentClass\InitializingStudentClass\bin\Debug\InitializingStudentClass.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\InitializingStudentClass\InitializingStudentClass\bin\Debug\InitializingStudentClass.pdb
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\InitializingStudentClass\InitializingStudentClass\obj\Debug\InitializingStudentClass.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\InitializingStudentClass\InitializingStudentClass\obj\Debug\InitializingStudentClass.pdb

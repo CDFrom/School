@@ -1,0 +1,9 @@
+body{
+  background: #567890;
+  text-align: center;
+}
+
+div{
+  display: inline-block;
+  margin-top: 45vh;
+}

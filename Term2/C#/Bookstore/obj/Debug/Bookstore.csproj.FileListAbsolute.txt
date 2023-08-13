@@ -1,0 +1,22 @@
+C:\Users\rolux\Desktop\Code\SODV1202\Bookstore\bin\Debug\Bookstore.exe.config
+C:\Users\rolux\Desktop\Code\SODV1202\Bookstore\bin\Debug\Bookstore.exe
+C:\Users\rolux\Desktop\Code\SODV1202\Bookstore\bin\Debug\Bookstore.pdb
+C:\Users\rolux\Desktop\Code\SODV1202\Bookstore\obj\Debug\Bookstore.csproj.AssemblyReference.cache
+C:\Users\rolux\Desktop\Code\SODV1202\Bookstore\obj\Debug\Bookstore.csproj.CoreCompileInputs.cache
+C:\Users\rolux\Desktop\Code\SODV1202\Bookstore\obj\Debug\Bookstore.exe
+C:\Users\rolux\Desktop\Code\SODV1202\Bookstore\obj\Debug\Bookstore.pdb
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Assignment 1\Bookstore\bin\Debug\Bookstore.exe.config
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Assignment 1\Bookstore\bin\Debug\Bookstore.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Assignment 1\Bookstore\bin\Debug\Bookstore.pdb
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Assignment 1\Bookstore\obj\Debug\Bookstore.csproj.AssemblyReference.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Assignment 1\Bookstore\obj\Debug\Bookstore.csproj.CoreCompileInputs.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Assignment 1\Bookstore\obj\Debug\Bookstore.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Assignment 1\Bookstore\obj\Debug\Bookstore.pdb
+C:\Users\rolux\Desktop\Term 2\SODV1202\Assignment 1\Bookstore\bin\Debug\Bookstore.exe.config
+C:\Users\rolux\Desktop\Term 2\SODV1202\Assignment 1\Bookstore\bin\Debug\Bookstore.exe
+C:\Users\rolux\Desktop\Term 2\SODV1202\Assignment 1\Bookstore\bin\Debug\Bookstore.pdb
+C:\Users\rolux\Desktop\Term 2\SODV1202\Assignment 1\Bookstore\obj\Debug\Bookstore.csproj.AssemblyReference.cache
+C:\Users\rolux\Desktop\Term 2\SODV1202\Assignment 1\Bookstore\obj\Debug\Bookstore.csproj.SuggestedBindingRedirects.cache
+C:\Users\rolux\Desktop\Term 2\SODV1202\Assignment 1\Bookstore\obj\Debug\Bookstore.csproj.CoreCompileInputs.cache
+C:\Users\rolux\Desktop\Term 2\SODV1202\Assignment 1\Bookstore\obj\Debug\Bookstore.exe
+C:\Users\rolux\Desktop\Term 2\SODV1202\Assignment 1\Bookstore\obj\Debug\Bookstore.pdb

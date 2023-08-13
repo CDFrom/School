@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Practice HTML Forms</title>
+</head>
+
+<body>
+  <h1>Registration Form:</h1>
+
+  <form action="index.html" method="get">
+    <fieldset>
+      <legend>Personal Information</legend>
+      <table>
+        <tr>
+          <td><label for="idName">Enter Name:</label></td>
+          <td><input id="idName" type="text" name="inputName" value="" placeholder="John Doe"></td>
+        </tr>
+        <td><label for="idAddress">Enter Address:</label></td>
+        <td><input id="idAddress" type="text" name="inputAddress" value="" placeholder="123 Address Drive"></td>
+        <tr>
+          <td><label for="idMale">Gender:</label></td>
+          <td>
+            <label for="idMale">Male</label>
+            <input id="idMale" type="radio" name="Gender" value="Male">
+            <label for="idFemale">Female</label>
+            <input id="idFemale" type="radio" name="Gender" value="Female">
+          </td>
+        </tr>
+        <tr>
+          <td><label for="idAgreement">Do you agree?</label></td>
+          <td><input id="idAgreement" type="checkbox" name="inputAgreement" value="True"></td>
+        </tr>
+      </table>
+    </fieldset>
+
+    <fieldset>
+      <legend>Login</legend>
+      <table>
+        <tr>
+          <td><label for="idUserName">Username:</label></td>
+          <td><input id="idUserName" type="text" name="UserName" value="" placeholder="Enter e-mail or user ID"></td>
+        </tr>
+        <tr>
+          <td><label for="idPassword">Password:</label></td>
+          <td><input id="idPassword" type="Password" name="Password" value="" placeholder="Enter password"></td>
+        </tr>
+      </table>
+    </fieldset>
+
+    <fieldset>
+      <legend>Other Controls</legend>
+      <input type="file" name="" value="">
+      <br>
+      <input type="image" name="" value="" src="">
+      <br>
+      <input type="button" name="" value="Continue">
+      <br><br>
+      <label for="idTextArea">Please write to us:</label>
+      <br>
+      <textarea id="idTextArea" name="textMessage" rows="10" cols="100" placeholder="Please add any comments here...."></textarea>
+      <br><br>
+      <select name="dropDownMenu"><!--Values can be exactly what the option is or any value you prefer -->
+        <option value="Fruit">Banana</option>
+        <option value="Fruit">Apple</option>
+        <option value="Vegetable">Tomatoes</option>
+        <option value="Vegetable">Cabbage</option>
+      </select>
+      <br>
+    </fieldset>
+    <br>
+    <input type="submit" name="" value="Submit Form">
+  </form>
+
+
+
+</body>
+
+</html>

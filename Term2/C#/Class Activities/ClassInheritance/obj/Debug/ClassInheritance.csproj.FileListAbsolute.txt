@@ -1,0 +1,7 @@
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\ClassInheritance\obj\Debug\ClassInheritance.csproj.AssemblyReference.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\ClassInheritance\obj\Debug\ClassInheritance.csproj.CoreCompileInputs.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\ClassInheritance\bin\Debug\ClassInheritance.exe.config
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\ClassInheritance\bin\Debug\ClassInheritance.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\ClassInheritance\bin\Debug\ClassInheritance.pdb
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\ClassInheritance\obj\Debug\ClassInheritance.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\ClassInheritance\obj\Debug\ClassInheritance.pdb

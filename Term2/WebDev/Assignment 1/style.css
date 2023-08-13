@@ -1,0 +1,121 @@
+/*For everything*/
+*{
+    font-family: cursive;
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    background-color: darkslategray;
+    height: 100vh;
+    width: 100vw;
+    overflow-x: hidden;
+}
+
+body{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+header{
+    background-color: skyblue;
+    text-align: center;
+    padding: 5vh 0;
+}
+
+/*Navbar styling*/
+nav{
+    background-color: rgb(87, 179, 151);
+    padding: 20px 0;
+    position: sticky;
+    top: 0;
+    text-align: center;
+    width: 100vw;
+}
+
+nav a{
+    background-color: rgb(87, 179, 151);
+    border-left: 3px solid black;
+    color: black;
+    padding: 0 2.5vw;
+    text-align: center;
+    text-decoration: none;
+}
+
+nav a:hover{
+    background-color: rgba(0, 0, 0, 0.75);
+    color: skyblue;
+}
+
+/*Stop left border from showing to keep consistent look*/
+#homePage{
+    border: 0px;
+}
+
+/*Footer styling*/
+footer{
+    background-clip: content-box;
+    background-color: cadetblue;
+    margin-top: auto;
+    padding-top: 5vh;
+    overflow: auto;
+}
+
+footer hr{
+    background-color: black;
+    height: 5px;
+}
+
+footer p{
+    float: left;
+    margin: 5vh auto;
+    text-align: center;
+    width: 46vw;
+}
+
+/*Home page stylings*/
+.top{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+#photoOfMe{
+    border-radius: 100%;
+    height: 25vw;
+    padding: 1vh;
+}
+
+#name{
+    display: none;
+}
+
+.middle{
+    margin: 5vh auto;
+    text-align: justify;
+    width: 70vw;
+}
+
+.middle h3{
+    padding: 5px;
+}
+
+/*Content styling for markToGradeConverter, staff and weather*/
+.content{
+    margin: auto;
+    text-align: center;
+}
+
+.contentSection{
+    padding: 2.5vh 0;
+}
+
+/*Styling for staff table*/
+#staffTable td{
+    padding: 0 1vw;
+}
+
+#staffTable td button{
+    margin: 1vh 0;
+}

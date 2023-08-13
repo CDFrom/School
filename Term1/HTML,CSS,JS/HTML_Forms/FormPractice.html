@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Practice with Forms</title>
+</head>
+
+<body>
+  <h1>HTML Forms:</h1>
+  <form action="FormPractice.html" method="get">
+    <table>
+      <tr>
+        <td><label for="idFirstName">First Name:</label></td>
+        <td><input id="idFirstName" type="text" name="firstName" value="" placeholder="John"></td>
+      </tr>
+      <tr>
+        <td><label for="idLastName">Last Name:</label></td>
+        <td><input id="idLastName" type="text" name="lastName" value="" placeholder="Doe"></td>
+      </tr>
+      <tr>
+        <td><label for="idEmail">E-mail:</label></td>
+        <td><input id="idEmail" type="email" name="email" value="" placeholder="JDoe123@gmail.com"></td>
+      </tr>
+    </table>
+    <br>
+    <input id="idMale" type="radio" name="gender" value="Male">
+    <label for="idMale">Male</label>
+    <br>
+    <input id="idFemale" type="radio" name="gender" value="Female">
+    <label for="idFemale">Female</label>
+    <br>
+    <br>
+    <input type="submit" name="submit" value="Submit">
+    <input type="reset" name="reset" value="Reset">
+  </form>
+
+</body>
+
+</html>

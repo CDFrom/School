@@ -1,0 +1,7 @@
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\Assignments\Assignment1\ErrorHandling\ErrorHandling\bin\Debug\ErrorHandling.exe.config
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\Assignments\Assignment1\ErrorHandling\ErrorHandling\bin\Debug\ErrorHandling.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\Assignments\Assignment1\ErrorHandling\ErrorHandling\bin\Debug\ErrorHandling.pdb
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\Assignments\Assignment1\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.csproj.AssemblyReference.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\Assignments\Assignment1\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\Assignments\Assignment1\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\Assignments\Assignment1\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.pdb

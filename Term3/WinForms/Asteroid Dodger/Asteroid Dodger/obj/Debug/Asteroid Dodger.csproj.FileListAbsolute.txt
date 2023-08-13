@@ -1,0 +1,21 @@
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Month 2 Week 3\Day 2\Asteroid Dodger\Asteroid Dodger\Asteroid Dodger\bin\Debug\Asteroid Dodger.exe.config
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Month 2 Week 3\Day 2\Asteroid Dodger\Asteroid Dodger\Asteroid Dodger\bin\Debug\Asteroid Dodger.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Month 2 Week 3\Day 2\Asteroid Dodger\Asteroid Dodger\Asteroid Dodger\bin\Debug\Asteroid Dodger.pdb
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Month 2 Week 3\Day 2\Asteroid Dodger\Asteroid Dodger\Asteroid Dodger\obj\Debug\Asteroid Dodger.csproj.AssemblyReference.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Month 2 Week 3\Day 2\Asteroid Dodger\Asteroid Dodger\Asteroid Dodger\obj\Debug\Asteroid_Dodger.Properties.Resources.resources
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Month 2 Week 3\Day 2\Asteroid Dodger\Asteroid Dodger\Asteroid Dodger\obj\Debug\Asteroid Dodger.csproj.GenerateResource.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Month 2 Week 3\Day 2\Asteroid Dodger\Asteroid Dodger\Asteroid Dodger\obj\Debug\Asteroid Dodger.csproj.CoreCompileInputs.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Month 2 Week 3\Day 2\Asteroid Dodger\Asteroid Dodger\Asteroid Dodger\obj\Debug\Asteroid Dodger.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Month 2 Week 3\Day 2\Asteroid Dodger\Asteroid Dodger\Asteroid Dodger\obj\Debug\Asteroid Dodger.pdb
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Month 2 Week 3\Day 2\Asteroid Dodger\Asteroid Dodger\Asteroid Dodger\obj\Debug\Asteroid_Dodger.MainForm.resources
+C:\Users\rolux\Desktop\Term 3\SODV2101\Month 2 Week 3\Day 2\Asteroid Dodger\Asteroid Dodger\Asteroid Dodger\bin\Debug\Asteroid Dodger.exe.config
+C:\Users\rolux\Desktop\Term 3\SODV2101\Month 2 Week 3\Day 2\Asteroid Dodger\Asteroid Dodger\Asteroid Dodger\bin\Debug\Asteroid Dodger.exe
+C:\Users\rolux\Desktop\Term 3\SODV2101\Month 2 Week 3\Day 2\Asteroid Dodger\Asteroid Dodger\Asteroid Dodger\bin\Debug\Asteroid Dodger.pdb
+C:\Users\rolux\Desktop\Term 3\SODV2101\Month 2 Week 3\Day 2\Asteroid Dodger\Asteroid Dodger\Asteroid Dodger\obj\Debug\Asteroid Dodger.csproj.AssemblyReference.cache
+C:\Users\rolux\Desktop\Term 3\SODV2101\Month 2 Week 3\Day 2\Asteroid Dodger\Asteroid Dodger\Asteroid Dodger\obj\Debug\Asteroid Dodger.csproj.SuggestedBindingRedirects.cache
+C:\Users\rolux\Desktop\Term 3\SODV2101\Month 2 Week 3\Day 2\Asteroid Dodger\Asteroid Dodger\Asteroid Dodger\obj\Debug\Asteroid_Dodger.MainForm.resources
+C:\Users\rolux\Desktop\Term 3\SODV2101\Month 2 Week 3\Day 2\Asteroid Dodger\Asteroid Dodger\Asteroid Dodger\obj\Debug\Asteroid_Dodger.Properties.Resources.resources
+C:\Users\rolux\Desktop\Term 3\SODV2101\Month 2 Week 3\Day 2\Asteroid Dodger\Asteroid Dodger\Asteroid Dodger\obj\Debug\Asteroid Dodger.csproj.GenerateResource.cache
+C:\Users\rolux\Desktop\Term 3\SODV2101\Month 2 Week 3\Day 2\Asteroid Dodger\Asteroid Dodger\Asteroid Dodger\obj\Debug\Asteroid Dodger.csproj.CoreCompileInputs.cache
+C:\Users\rolux\Desktop\Term 3\SODV2101\Month 2 Week 3\Day 2\Asteroid Dodger\Asteroid Dodger\Asteroid Dodger\obj\Debug\Asteroid Dodger.exe
+C:\Users\rolux\Desktop\Term 3\SODV2101\Month 2 Week 3\Day 2\Asteroid Dodger\Asteroid Dodger\Asteroid Dodger\obj\Debug\Asteroid Dodger.pdb

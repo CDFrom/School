@@ -1,0 +1,7 @@
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\CustomerPhoneRegistration\CustomerPhoneRegistration\bin\Debug\CustomerPhoneRegistration.exe.config
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\CustomerPhoneRegistration\CustomerPhoneRegistration\bin\Debug\CustomerPhoneRegistration.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\CustomerPhoneRegistration\CustomerPhoneRegistration\bin\Debug\CustomerPhoneRegistration.pdb
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\CustomerPhoneRegistration\CustomerPhoneRegistration\obj\Debug\CustomerPhoneRegistration.csproj.AssemblyReference.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\CustomerPhoneRegistration\CustomerPhoneRegistration\obj\Debug\CustomerPhoneRegistration.csproj.CoreCompileInputs.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\CustomerPhoneRegistration\CustomerPhoneRegistration\obj\Debug\CustomerPhoneRegistration.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\CustomerPhoneRegistration\CustomerPhoneRegistration\obj\Debug\CustomerPhoneRegistration.pdb

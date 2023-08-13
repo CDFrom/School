@@ -1,0 +1,6 @@
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\BrokenChange\BrokenChange\bin\Debug\BrokenChange.exe.config
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\BrokenChange\BrokenChange\bin\Debug\BrokenChange.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\BrokenChange\BrokenChange\bin\Debug\BrokenChange.pdb
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\BrokenChange\BrokenChange\obj\Debug\BrokenChange.csproj.CoreCompileInputs.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\BrokenChange\BrokenChange\obj\Debug\BrokenChange.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\BrokenChange\BrokenChange\obj\Debug\BrokenChange.pdb

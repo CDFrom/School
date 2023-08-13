@@ -1,0 +1,75 @@
+/* Element Selectors */
+h2{
+  color: gold;
+  text-decoration: underline;
+}
+
+table{
+  color: darkblue;
+}
+
+
+/*Class selectors*/
+.Flowers{
+  color: purple;
+  font-weight: lighter;
+}
+
+.Fruits{
+  color: red;
+  font-weight: bold;
+}
+
+.Italic{
+  color: skyblue;
+  font-style: italic;
+}
+
+.Title{
+  color: darkgrey;
+  font-weight: bolder;
+  text-decoration: underline;
+}
+
+
+
+/*ID Selectors*/
+#p2{
+  background-color: black;
+  color: orange;
+  font-weight: bolder;
+}
+
+#Element{
+  color: yellow;
+}
+
+#Class{
+  color: orangered;
+}
+
+#ID{
+  color: violet;
+}
+
+#Pseudo{
+  color: lightpink;
+}
+
+
+/*Pseudo Class Selectors*/
+
+a:link{
+  background-color: lightgrey;
+  color: green;
+  font-style: italic;
+}
+
+a:hover{
+  background-color: gray;
+  color: blue;
+}
+
+a:visited{
+  color: green;
+}

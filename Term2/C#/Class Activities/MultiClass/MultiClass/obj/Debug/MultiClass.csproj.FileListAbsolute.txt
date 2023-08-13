@@ -1,0 +1,15 @@
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\MultiClass\MultiClass\bin\Debug\MultiClass.exe.config
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\MultiClass\MultiClass\bin\Debug\MultiClass.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\MultiClass\MultiClass\bin\Debug\MultiClass.pdb
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\MultiClass\MultiClass\obj\Debug\MultiClass.csproj.AssemblyReference.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\MultiClass\MultiClass\obj\Debug\MultiClass.csproj.CoreCompileInputs.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\MultiClass\MultiClass\obj\Debug\MultiClass.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\MultiClass\MultiClass\obj\Debug\MultiClass.pdb
+C:\Users\rolux\Desktop\C#\Class Activities\MultiClass\MultiClass\bin\Debug\MultiClass.exe.config
+C:\Users\rolux\Desktop\C#\Class Activities\MultiClass\MultiClass\bin\Debug\MultiClass.exe
+C:\Users\rolux\Desktop\C#\Class Activities\MultiClass\MultiClass\bin\Debug\MultiClass.pdb
+C:\Users\rolux\Desktop\C#\Class Activities\MultiClass\MultiClass\obj\Debug\MultiClass.csproj.AssemblyReference.cache
+C:\Users\rolux\Desktop\C#\Class Activities\MultiClass\MultiClass\obj\Debug\MultiClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\rolux\Desktop\C#\Class Activities\MultiClass\MultiClass\obj\Debug\MultiClass.csproj.CoreCompileInputs.cache
+C:\Users\rolux\Desktop\C#\Class Activities\MultiClass\MultiClass\obj\Debug\MultiClass.exe
+C:\Users\rolux\Desktop\C#\Class Activities\MultiClass\MultiClass\obj\Debug\MultiClass.pdb

@@ -1,0 +1,7 @@
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\GLA\GLA1\GLA1 SODV2202 CFrom\GLA1 SODV2202 CFrom\bin\Debug\GLA1 SODV2202 CFrom.exe.config
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\GLA\GLA1\GLA1 SODV2202 CFrom\GLA1 SODV2202 CFrom\bin\Debug\GLA1 SODV2202 CFrom.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\GLA\GLA1\GLA1 SODV2202 CFrom\GLA1 SODV2202 CFrom\bin\Debug\GLA1 SODV2202 CFrom.pdb
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\GLA\GLA1\GLA1 SODV2202 CFrom\GLA1 SODV2202 CFrom\obj\Debug\GLA1 SODV2202 CFrom.csproj.AssemblyReference.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\GLA\GLA1\GLA1 SODV2202 CFrom\GLA1 SODV2202 CFrom\obj\Debug\GLA1 SODV2202 CFrom.csproj.CoreCompileInputs.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\GLA\GLA1\GLA1 SODV2202 CFrom\GLA1 SODV2202 CFrom\obj\Debug\GLA1 SODV2202 CFrom.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\GLA\GLA1\GLA1 SODV2202 CFrom\GLA1 SODV2202 CFrom\obj\Debug\GLA1 SODV2202 CFrom.pdb

@@ -1,0 +1,70 @@
+D:\Fall2021\3_SODV2202\Modules\Module 9 - Networking\Examples\clientserver\Client\bin\Debug\netcoreapp3.1\Client.exe
+D:\Fall2021\3_SODV2202\Modules\Module 9 - Networking\Examples\clientserver\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+D:\Fall2021\3_SODV2202\Modules\Module 9 - Networking\Examples\clientserver\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+D:\Fall2021\3_SODV2202\Modules\Module 9 - Networking\Examples\clientserver\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+D:\Fall2021\3_SODV2202\Modules\Module 9 - Networking\Examples\clientserver\Client\bin\Debug\netcoreapp3.1\Client.dll
+D:\Fall2021\3_SODV2202\Modules\Module 9 - Networking\Examples\clientserver\Client\bin\Debug\netcoreapp3.1\Client.pdb
+D:\Fall2021\3_SODV2202\Modules\Module 9 - Networking\Examples\clientserver\Client\obj\Debug\netcoreapp3.1\Client.csproj.AssemblyReference.cache
+D:\Fall2021\3_SODV2202\Modules\Module 9 - Networking\Examples\clientserver\Client\obj\Debug\netcoreapp3.1\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fall2021\3_SODV2202\Modules\Module 9 - Networking\Examples\clientserver\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+D:\Fall2021\3_SODV2202\Modules\Module 9 - Networking\Examples\clientserver\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+D:\Fall2021\3_SODV2202\Modules\Module 9 - Networking\Examples\clientserver\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+D:\Fall2021\3_SODV2202\Modules\Module 9 - Networking\Examples\clientserver\Client\obj\Debug\netcoreapp3.1\Client.dll
+D:\Fall2021\3_SODV2202\Modules\Module 9 - Networking\Examples\clientserver\Client\obj\Debug\netcoreapp3.1\Client.pdb
+D:\Fall2021\3_SODV2202\Modules\Module 9 - Networking\Examples\clientserver\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache
+D:\Fall2021\3_SODV2202\Modules\Module 9 - Networking\NetworkingExamples\clientserver\Client\bin\Debug\netcoreapp3.1\Client.exe
+D:\Fall2021\3_SODV2202\Modules\Module 9 - Networking\NetworkingExamples\clientserver\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+D:\Fall2021\3_SODV2202\Modules\Module 9 - Networking\NetworkingExamples\clientserver\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+D:\Fall2021\3_SODV2202\Modules\Module 9 - Networking\NetworkingExamples\clientserver\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+D:\Fall2021\3_SODV2202\Modules\Module 9 - Networking\NetworkingExamples\clientserver\Client\bin\Debug\netcoreapp3.1\Client.dll
+D:\Fall2021\3_SODV2202\Modules\Module 9 - Networking\NetworkingExamples\clientserver\Client\bin\Debug\netcoreapp3.1\Client.pdb
+D:\Fall2021\3_SODV2202\Modules\Module 9 - Networking\NetworkingExamples\clientserver\Client\obj\Debug\netcoreapp3.1\Client.csproj.AssemblyReference.cache
+D:\Fall2021\3_SODV2202\Modules\Module 9 - Networking\NetworkingExamples\clientserver\Client\obj\Debug\netcoreapp3.1\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fall2021\3_SODV2202\Modules\Module 9 - Networking\NetworkingExamples\clientserver\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+D:\Fall2021\3_SODV2202\Modules\Module 9 - Networking\NetworkingExamples\clientserver\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+D:\Fall2021\3_SODV2202\Modules\Module 9 - Networking\NetworkingExamples\clientserver\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+D:\Fall2021\3_SODV2202\Modules\Module 9 - Networking\NetworkingExamples\clientserver\Client\obj\Debug\netcoreapp3.1\Client.dll
+D:\Fall2021\3_SODV2202\Modules\Module 9 - Networking\NetworkingExamples\clientserver\Client\obj\Debug\netcoreapp3.1\Client.pdb
+D:\Fall2021\3_SODV2202\Modules\Module 9 - Networking\NetworkingExamples\clientserver\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache
+C:\Users\sohaib.bajwa1\Desktop\NetworkingExamples\NetworkingExamples\02clientserver\Client\bin\Debug\netcoreapp3.1\Client.exe
+C:\Users\sohaib.bajwa1\Desktop\NetworkingExamples\NetworkingExamples\02clientserver\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+C:\Users\sohaib.bajwa1\Desktop\NetworkingExamples\NetworkingExamples\02clientserver\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+C:\Users\sohaib.bajwa1\Desktop\NetworkingExamples\NetworkingExamples\02clientserver\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+C:\Users\sohaib.bajwa1\Desktop\NetworkingExamples\NetworkingExamples\02clientserver\Client\bin\Debug\netcoreapp3.1\Client.dll
+C:\Users\sohaib.bajwa1\Desktop\NetworkingExamples\NetworkingExamples\02clientserver\Client\bin\Debug\netcoreapp3.1\Client.pdb
+C:\Users\sohaib.bajwa1\Desktop\NetworkingExamples\NetworkingExamples\02clientserver\Client\obj\Debug\netcoreapp3.1\Client.csproj.AssemblyReference.cache
+C:\Users\sohaib.bajwa1\Desktop\NetworkingExamples\NetworkingExamples\02clientserver\Client\obj\Debug\netcoreapp3.1\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sohaib.bajwa1\Desktop\NetworkingExamples\NetworkingExamples\02clientserver\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+C:\Users\sohaib.bajwa1\Desktop\NetworkingExamples\NetworkingExamples\02clientserver\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+C:\Users\sohaib.bajwa1\Desktop\NetworkingExamples\NetworkingExamples\02clientserver\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+C:\Users\sohaib.bajwa1\Desktop\NetworkingExamples\NetworkingExamples\02clientserver\Client\obj\Debug\netcoreapp3.1\Client.dll
+C:\Users\sohaib.bajwa1\Desktop\NetworkingExamples\NetworkingExamples\02clientserver\Client\obj\Debug\netcoreapp3.1\Client.pdb
+C:\Users\sohaib.bajwa1\Desktop\NetworkingExamples\NetworkingExamples\02clientserver\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\Week 13 Day 2\02clientserver\Client\bin\Debug\netcoreapp3.1\Client.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\Week 13 Day 2\02clientserver\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\Week 13 Day 2\02clientserver\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\Week 13 Day 2\02clientserver\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\Week 13 Day 2\02clientserver\Client\bin\Debug\netcoreapp3.1\Client.dll
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\Week 13 Day 2\02clientserver\Client\bin\Debug\netcoreapp3.1\Client.pdb
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\Week 13 Day 2\02clientserver\Client\obj\Debug\netcoreapp3.1\Client.csproj.AssemblyReference.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\Week 13 Day 2\02clientserver\Client\obj\Debug\netcoreapp3.1\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\Week 13 Day 2\02clientserver\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\Week 13 Day 2\02clientserver\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\Week 13 Day 2\02clientserver\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\Week 13 Day 2\02clientserver\Client\obj\Debug\netcoreapp3.1\Client.dll
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\Week 13 Day 2\02clientserver\Client\obj\Debug\netcoreapp3.1\Client.pdb
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2202\Week 13 Day 2\02clientserver\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache
+C:\Users\rolux\Desktop\Term 3\SODV2202\Week 13 Day 2\02clientserver\Client\bin\Debug\netcoreapp3.1\Client.exe
+C:\Users\rolux\Desktop\Term 3\SODV2202\Week 13 Day 2\02clientserver\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+C:\Users\rolux\Desktop\Term 3\SODV2202\Week 13 Day 2\02clientserver\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+C:\Users\rolux\Desktop\Term 3\SODV2202\Week 13 Day 2\02clientserver\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+C:\Users\rolux\Desktop\Term 3\SODV2202\Week 13 Day 2\02clientserver\Client\bin\Debug\netcoreapp3.1\Client.dll
+C:\Users\rolux\Desktop\Term 3\SODV2202\Week 13 Day 2\02clientserver\Client\bin\Debug\netcoreapp3.1\Client.pdb
+C:\Users\rolux\Desktop\Term 3\SODV2202\Week 13 Day 2\02clientserver\Client\obj\Debug\netcoreapp3.1\Client.csproj.AssemblyReference.cache
+C:\Users\rolux\Desktop\Term 3\SODV2202\Week 13 Day 2\02clientserver\Client\obj\Debug\netcoreapp3.1\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolux\Desktop\Term 3\SODV2202\Week 13 Day 2\02clientserver\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+C:\Users\rolux\Desktop\Term 3\SODV2202\Week 13 Day 2\02clientserver\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+C:\Users\rolux\Desktop\Term 3\SODV2202\Week 13 Day 2\02clientserver\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+C:\Users\rolux\Desktop\Term 3\SODV2202\Week 13 Day 2\02clientserver\Client\obj\Debug\netcoreapp3.1\Client.dll
+C:\Users\rolux\Desktop\Term 3\SODV2202\Week 13 Day 2\02clientserver\Client\obj\Debug\netcoreapp3.1\Client.pdb
+C:\Users\rolux\Desktop\Term 3\SODV2202\Week 13 Day 2\02clientserver\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\TestingDebugger\TestingDebugger\bin\Debug\TestingDebugger.exe.config
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\TestingDebugger\TestingDebugger\bin\Debug\TestingDebugger.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\TestingDebugger\TestingDebugger\bin\Debug\TestingDebugger.pdb
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\TestingDebugger\TestingDebugger\obj\Debug\TestingDebugger.csproj.AssemblyReference.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\TestingDebugger\TestingDebugger\obj\Debug\TestingDebugger.csproj.CoreCompileInputs.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\TestingDebugger\TestingDebugger\obj\Debug\TestingDebugger.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 2\SODV1202\Code\TestingDebugger\TestingDebugger\obj\Debug\TestingDebugger.pdb
+C:\Users\rolux\Desktop\C#\Class Activities\TestingDebugger\TestingDebugger\bin\Debug\TestingDebugger.exe.config
+C:\Users\rolux\Desktop\C#\Class Activities\TestingDebugger\TestingDebugger\bin\Debug\TestingDebugger.exe
+C:\Users\rolux\Desktop\C#\Class Activities\TestingDebugger\TestingDebugger\bin\Debug\TestingDebugger.pdb
+C:\Users\rolux\Desktop\C#\Class Activities\TestingDebugger\TestingDebugger\obj\Debug\TestingDebugger.csproj.AssemblyReference.cache
+C:\Users\rolux\Desktop\C#\Class Activities\TestingDebugger\TestingDebugger\obj\Debug\TestingDebugger.csproj.SuggestedBindingRedirects.cache
+C:\Users\rolux\Desktop\C#\Class Activities\TestingDebugger\TestingDebugger\obj\Debug\TestingDebugger.csproj.CoreCompileInputs.cache
+C:\Users\rolux\Desktop\C#\Class Activities\TestingDebugger\TestingDebugger\obj\Debug\TestingDebugger.exe
+C:\Users\rolux\Desktop\C#\Class Activities\TestingDebugger\TestingDebugger\obj\Debug\TestingDebugger.pdb

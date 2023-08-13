@@ -1,0 +1,39 @@
+C:\Users\rolux\Desktop\Code\RAD Assignments\Assignment 3 - Trading Cards\Assignment3\Assignment3\bin\Debug\CardDatabase.mdf
+C:\Users\rolux\Desktop\Code\RAD Assignments\Assignment 3 - Trading Cards\Assignment3\Assignment3\bin\Debug\CardDatabase_log.ldf
+C:\Users\rolux\Desktop\Code\RAD Assignments\Assignment 3 - Trading Cards\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Users\rolux\Desktop\Code\RAD Assignments\Assignment 3 - Trading Cards\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\rolux\Desktop\Code\RAD Assignments\Assignment 3 - Trading Cards\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+C:\Users\rolux\Desktop\Code\RAD Assignments\Assignment 3 - Trading Cards\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.AssemblyReference.cache
+C:\Users\rolux\Desktop\Code\RAD Assignments\Assignment 3 - Trading Cards\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.SuggestedBindingRedirects.cache
+C:\Users\rolux\Desktop\Code\RAD Assignments\Assignment 3 - Trading Cards\Assignment3\Assignment3\obj\Debug\Assignment3.MainForm.resources
+C:\Users\rolux\Desktop\Code\RAD Assignments\Assignment 3 - Trading Cards\Assignment3\Assignment3\obj\Debug\Assignment3.Properties.Resources.resources
+C:\Users\rolux\Desktop\Code\RAD Assignments\Assignment 3 - Trading Cards\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.GenerateResource.cache
+C:\Users\rolux\Desktop\Code\RAD Assignments\Assignment 3 - Trading Cards\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\rolux\Desktop\Code\RAD Assignments\Assignment 3 - Trading Cards\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+C:\Users\rolux\Desktop\Code\RAD Assignments\Assignment 3 - Trading Cards\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Assignments\Assignment 3\Assignment3\Assignment3\bin\Debug\CardDatabase.mdf
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Assignments\Assignment 3\Assignment3\Assignment3\bin\Debug\CardDatabase_log.ldf
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Assignments\Assignment 3\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Assignments\Assignment 3\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Assignments\Assignment 3\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Assignments\Assignment 3\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.AssemblyReference.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Assignments\Assignment 3\Assignment3\Assignment3\obj\Debug\Assignment3.MainForm.resources
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Assignments\Assignment 3\Assignment3\Assignment3\obj\Debug\Assignment3.Properties.Resources.resources
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Assignments\Assignment 3\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.GenerateResource.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Assignments\Assignment 3\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Assignments\Assignment 3\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Assignments\Assignment 3\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
+C:\Users\rolux\OneDrive\Desktop\BVC\Term 3\SODV2101\Assignments\Assignment 3\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.SuggestedBindingRedirects.cache
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 3\Assignment3\Assignment3\bin\Debug\CardDatabase.mdf
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 3\Assignment3\Assignment3\bin\Debug\CardDatabase_log.ldf
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 3\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 3\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 3\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 3\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.AssemblyReference.cache
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 3\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.SuggestedBindingRedirects.cache
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 3\Assignment3\Assignment3\obj\Debug\Assignment3.MainForm.resources
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 3\Assignment3\Assignment3\obj\Debug\Assignment3.Properties.Resources.resources
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 3\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.GenerateResource.cache
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 3\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 3\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+C:\Users\rolux\Desktop\Term 3\SODV2101\Assignments\Assignment 3\Assignment3\Assignment3\obj\Debug\Assignment3.pdb

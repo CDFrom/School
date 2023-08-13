@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Javascript Cheat Sheet</title>
+  <link rel="stylesheet" href="css/master.css">
+</head>
+
+<body style="background-image: url('Images/pexels-pixabay-270348.jpg')">
+  <div class="header">
+    <div class="navBarJS">
+      <a href="hobbies.html" style="float:right">My Hobbies</a>
+      <a href="index.html" style="float:right">My Bio</a>
+    </div>
+    <div class="sideBarJS">
+      <a id="Home" href="#">Home</a>
+      <a id="DOM" href="#">DOM Elements</a>
+      <a id="Strings" href="#">Strings</a>
+      <a id="Print" href="#">Printing Text</a>
+      <a id="Variables" href="#">Variables and Constants</a>
+      <a id="Functions" href="#">Functions</a>
+      <a id="Loops" href="#">For Loops</a>
+      <a id="Objects" href="#">Objects</a>
+      <a id="Conversion" href="#">Type Conversion</a>
+      <a id="Comparisons" href="#">Comparisons</a>
+      <a id="Dates" href="#">Dates</a>
+    </div>
+  </div>
+
+  <div class="bodyJS">
+    <!-- Home -->
+    <div class="home">
+      <h1>Home Page</h1>
+      <p>Please select an item from the left to continue.</p>
+      <p>For further help please visit one of the following:</p>
+      <ul type="none" style="margin: 2.5vmin 0 0 5vmin">
+        <li><a href="https://www.w3schools.com/" target="_blank">W3Schools</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/" target="_blank">MDN</a></li>
+        <li><a href="https://www.sololearn.com/" target="_blank">SoloLearn</a></li>
+      </ul>
+    </div>
+    <!-- DOM Elements -->
+    <div class="DOM">
+      <h1>HTML DOM Elements with Javascript</h1>
+      <p>In order to manipulate an HTML element we must first find it and in Javascript we can do this in many different ways.</p>
+      <h2>By id</h2>
+      <p>The easiest and most commonly used method is <strong>getElementById()</strong>.<br>
+        For example if we have the following:<br>
+        <b>&lt;p id="test"&gt;Hello&lt;/p&gt;</b><br>
+        We can use:<br>
+        <b>let testVar = document.getElementById('test');</b>
+      </p>
+      <h2>By tag name</h2>
+      <p>We can also get all elements based on their tag using the method <strong>getElementsByTagName()</strong>.<br>
+        For example if we have the following:<br>
+        <b>&lt;h1&gt;Test&lt;/h1&gt;</b><br>
+        We can return an <i>array</i> of the elements with:<br>
+        <b>let testVar = document.getElementsByTagName('h1');</b><br>
+        Or if we want to target only <u>one</u> we can select it based on the placement in the array:<br>
+        <b>let testVar = document.getElementsByTagName('h1')[0];</b>
+      </p>
+      <h2>By class name</h2>
+      <p>One more method is to get elements by class name using <strong>getElementsByClassName()</strong>.<br>
+        For example if we have the following:<br>
+        <b>&lt;div class="test"&gt;&lt;/div&gt;</b><br>
+        We can get an <i>array</i> of the elements with:<br>
+        <b>let testVar = document.getElementsByClassName('test');</b><br>
+        Or simply <u>one</u> element in the array with:<br>
+        <b>let testVar = document.getElementsByClassName('test')[0];</b>
+      </p>
+    </div>
+    <!-- Strings -->
+    <div class="strings">
+      <h1>String methods in Javascript</h1>
+      <p>There are a wide variety of methods for use with strings in Javascript. The following are a few of the examples.</p>
+      <h2>String Length</h2>
+      <p>We can easily identify the length of a string using the <strong>length</strong> property.<br>
+        For example if we have the following:<br>
+        <b>let str = "This is a test";</b><br>
+        We can use:<br>
+        <b>let length = str.length;</b><br>
+        To which our length variable will receive the number <b>14</b>.
+      </p>
+      <h2>Slice</h2>
+      <p>We can also obtain a part of a string and place it into a new variable by using <strong>slice()</strong>.<br>
+        For example if we have the following:<br>
+        <b>let txt = "Strawberry, Grape, Banana";</b><br>
+        We can use:<br>
+        <b>let berry = txt.slice(0,10);</b><br>
+        To which we recieve <b>'Strawberry'</b>.<br>
+        We can also go from the end using <i>negative</i> numbers<br>
+        <b>let last = txt.slice(-6);</b><br>
+        To which we receive <b>'banana'</b>.
+      </p>
+      <h2>Converting to upper and lower case</h2>
+      <p>One more method is to convert a string to a different casing using <strong>toUpperCase()</strong> and <strong>toLowerCase()</strong>.<br>
+        For example if we have the following:<br>
+        <b>let name = "First Name";</b><br>
+        We can make it all <em>uppercase</em> using:<br>
+        <b>let nameUpper = name.toUpperCase();</b><br>
+        To which we receive <b>'FIRST NAME'</b>.<br>
+        Or we can make it all <em>lowercase</em> using:<br>
+        <b>let nameLower = name.toLowerCase();</b><br>
+        To which we receive <b>'first name'</b>.
+      </p>
+    </div>
+    <!-- Printing text -->
+    <div class="print">
+      <h1>Printing Text with Javascript</h1>
+      <p>There are a number of ways we can display text with Javascript. On the web page itself, in the console or as a notification prompt.</p>
+      <h2>Printing Text to the Web Page</h2>
+      <p>In order to print some text directly on to the webpage we can use <strong>innerHTML</strong>.<br>
+        For example if we have the following:<br>
+        <b>&lt;p id="test"&gt;&lt;/p&gt;</b><br>
+        We can use the <a href="#" onclick="showDOM()" style="text-decoration:none">document.getElementById(id)</a> method to find the element and then
+        change the content with <strong>innerHTML</strong>:<br>
+        <b>document.getElementById('test').innerHTML = "This is a test";</b><br>
+      </p>
+      <h2>Printing Text to the Console</h2>
+      <p>We can also print text directly to the <em>console</em> which can help us debug our code using the <strong>console.log()</strong> method.<br>
+        We can use the below:<br>
+        <b>console.log("This is a test");</b><br>
+        To which we would see <b>"This is a test"</b> in our console.<br>
+      </p>
+      <h2>Printing to an Alert Box</h2>
+      <p>One more method is to create an alert box containing our text with <strong>alert()</strong>.<br>
+        By using the below:<br>
+        <b>alert("Hello World!");</b><br>
+        We receive an alert box with the content <b>'Hello World!'</b>.<br>
+      </p>
+      <h2>NOTE</h2>
+      <p>We can also see the output of our <i>variable</i> by using them as replacement inside our brackets.<br>
+        For example if we have:<br>
+        <b>var x = 5+7;</b><br>
+        We can use any of the following:<br>
+        <b>document.getElementById('test').innerHTML = var;</b><br>
+        To which our paragraph text changes to <b>12</b>.<br>
+        <b>console.log(x);</b><br>
+        Here we receive <b>12</b> in the console.<br>
+        <b>alert(x);</b><br>
+        Finally we get a prompt with the content <b>12</b>.
+      </p>
+    </div>
+    <!-- Variable and constant declarations -->
+    <div class="declarations">
+      <h1>Variable and Constant Declarations</h1>
+      <p>In Javascript we have <b>3</b> different ways of declaring a variable, <em>var</em>, <em>let</em> and <em>const</em>.</p>
+      <h2>Var</h2>
+      <p>The first method is to use <strong>var</strong>.<br>
+        For example:<br>
+        <b>var x = 5;</b><br>
+        <b>var y = "This is a test.";</b><br>
+        <b>var z = x + 7;</b><br>
+      </p>
+      <h2>Let</h2>
+      <p>The next method is to use <strong>let</strong>.<br>
+        For example:<br>
+        <b>let x = 7;</b><br>
+        <b>var y = "Hello World!";</b><br>
+        <b>var z = x + 13;</b><br>
+      </p>
+      <h2>Const</h2>
+      <p>The final method is to use <strong>const</strong>.<br>
+        <b><u>PLEASE NOTE:</u></b> A variable declared with <strong>const</strong> <b><u>CANNOT</u></b> be redeclared!<br>
+        For example:<br>
+        <b>const PI = 3.1416;</b><br>
+        <b>const str = "Cannot change.";</b><br>
+        <b>const z = 5*7;</b><br>
+      </p>
+    </div>
+    <!-- Function declaration -->
+    <div class="functions">
+      <h1>Functions in Javascript</h1>
+      <p>In Javascript we use <i>functions</i> to execute a block of code to perform a task for us such as performing a mathematical operation.</p>
+      <h2>Creating a Function</h2>
+      <p>The usual layout of a function can be seen below:<br>
+        <b>function functionName(parameter1, parameter2){<br>
+          &emsp;// your code here<br>
+          }</b><br>
+        We first use the function keyword, we then name our function, put any parameters we would like to include inside our parentheses and finally
+        our code to be executed inside our curly brackets.<br><br>
+        For example:<br>
+        <b>let x = 7;</b><br>
+        <b>var y = 5;</b><br>
+        <b>function sum(x, y){<br>
+          &emsp;return x + y;<br>
+          }</b><br>
+      </p>
+      <h2>Invoking a function</h2>
+      <p>When we use <b>()</b> we access the function immediately and get a result. When we access a function without <b>()</b> we instead get the
+        function object.<br>
+        For example in regard to our sum function above, stating <b>sum</b> will give us:<br>
+        <b>ƒ sum(x, y){<br>
+          &emsp;return x + y;<br>
+          }</b><br>
+        But if we give <b>sum(x, y)</b> we instead get:<br>
+        <b>3</b>
+      </p>
+    </div>
+    <!-- For loops -->
+    <div class="loops">
+      <h1>For Loops</h1>
+      <p>In Javascript we have <b>3</b> different ways of creating a <em>for</em> loop.</p>
+      <ul style="margin-left:10vmin">
+        <li>For</li>
+        <li>For in</li>
+        <li>For of</li>
+      </ul>
+      <h2>For</h2>
+      <p>The first way is to use the <strong>for loop</strong> which will loop through a block of code a number of times.<br>
+        For example:<br>
+        <b>var x = 0;<br>
+          for(let i = 0; i < 10; i++){<br>
+            &emsp;x = x + 2;<br>
+            }</b><br>
+      </p>
+      <h2>For in</h2>
+      <p>The next method is to use <strong>for in</strong> which will loop through the properties of an object or places in an array.<br>
+        For example:<br>
+        <b>let person = {first:"John", last:"Doe", age:25, gender:"male"};<br>
+          for(let i in person){<br>
+          &emsp;console.log(person[i]);<br>
+          }</b><br>
+      </p>
+      <h2>For of</h2>
+      <p>The final method is to use <strong>for of</strong>. This will loop over the values of an object or an array.<br>
+        For example:<br>
+        <b>var y = ["Grape", "Banana", "Orange", 1, 2, 3];<br>
+          for(let i of y){<br>
+          &emsp;console.log(i);<br>
+          }</b><br>
+      </p>
+    </div>
+    <!-- Objects -->
+    <div class="objects">
+      <h1>Objects</h1>
+      <p>In Javascript we have <strong>objects</strong> which are similar to variables only <strong>objects</strong> hold many values.</p>
+      <h2>Defining an Object</h2>
+      <p>To define an <strong>object</strong> in Javascript we first use a <a href="#" onclick="showDeclarations()" style="text-decoration:none">variable declaration</a>, followed by a variable name, however when we declare our values we
+        place them inside of curly brackets <b>{}</b> and use <strong>key:value</strong> pairs or properties as seen below.<br>
+        Example:<br>
+        <b>var car = {make:"Toyota", model:"Corolla", year:2021, color:"Blue"};</b><br>
+      </p>
+      <h2>Accessing Object Properties</h2>
+      <p>In order to access an object property we can declare the object name, then a period, followed by the property name.<br>
+        For example:<br>
+        <b>car.make+" "+car.model;</b><br>
+        Will gives us <b>Toyota Corolla</b>.
+      </p>
+    </div>
+    <!-- Type conversion -->
+    <div class="conversions">
+      <h1>Type Conversion in Javascript</h1>
+      <p>We can use Javascript to change the data type of our variables and convert them into a new variable.</p>
+      <h2>Number</h2>
+      <p>In Javascript we have a few ways we can convert something to a number. We can use <strong>Number()</strong>, <strong>parseInt()</strong>
+        and <strong>parseFloat()</strong>.<br>
+        For example we can do any of the following:<br>
+        <b>Number(true);</b><br>
+        <b>parseInt("5");</b><br>
+        <b>parseFloat("3.14");</b>
+      </p>
+      <h2>String</h2>
+      <p>We can also convert numbers to strings using the method <strong>String()</strong>.<br>
+        Some examples include:<br>
+        <b>String(x);</b><br>
+        <b>String(5);</b><br>
+        <b>String(5+7);</b>
+      </p>
+    </div>
+    <!-- Comparisons -->
+    <div class="comparisons">
+      <h1>Comparisons in Javascript</h1>
+      <p>In Javascript we use comparison operators to check for <i>true</i> and <i>false</i> values.</p>
+      <h2>Operators</h2>
+      <p>The operators of Javascript include equal to <strong>==</strong>, not equal <strong>!=</strong>, greater than <strong>></strong>, less than
+        <strong>
+          << /strong>, greater than or equal to <strong>>=</strong> and less than equal to <strong>
+              <=< /strong>.<br>
+                Examples of the above:<br>
+                <b>x == 5;</b><br>
+                <b>y != 7;</b><br>
+                <b>x > y;</b><br>
+                <b>y < x;</b><br>
+                    <b>x >= y;</b><br>
+                    <b>y <= x;</b>
+      </p>
+      <h2>Checking for type</h2>
+      <p>In Javascript we also have the ability to check if the data type is the same or not with equal value and type <strong>===</strong> and
+        not equal value or not equal type <strong>!==</strong>.<br>
+        Structure remains the same but output can vary:<br>
+        <b>x === 5;</b><br>
+        <b>5 !== "5";</b><br>
+        <b>7 !== 3;</b>
+      </p>
+    </div>
+    <!-- Dates -->
+    <div class="dates">
+      <h1>Dates</h1>
+      <p>Using Javascript we can obtain the current date and time using the browsers time zone.</p>
+      <h2>Creating a Date Object</h2>
+      <p>Dates are objects and can be created using <strong>new Date()</strong> as shown below.<br>
+        <b>var d = new Date();</b><br>
+        We can also specify the values instead of getting them from the browser. The order of the object is year, month, day, hour, minute, second and
+        millisecond.<br>
+        <b>var d = new Date(2021, 12, 25, 23, 30, 0, 0);</b>
+      </p>
+      <h2>Displaying Dates</h2>
+      <p>In order to display a date we can use a few different methods depending on how much we would like to have displayed.<br>
+        For example:<br>
+        <b>d.toString();</b><br>
+        <b>d.toDateString();</b><br>
+      </p>
+    </div>
+  </div>
+
+  <script src="js/cheatsheet.js"></script>
+</body>
+
+</html>

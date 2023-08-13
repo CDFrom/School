@@ -1,0 +1,89 @@
+:root
+{
+  --divHeight: calc(100vh/8);
+  --divWidth: calc(100vw/8);
+}
+
+*
+{
+  margin: 0;
+  padding: 0;
+}
+
+body
+{
+  background: lightgrey;
+  height: 100vh;
+  width: 100vw;
+}
+
+.div1
+{
+  background: red;
+  border: solid 3px green;
+  height: calc(var(--divHeight) - 6px);
+  width: calc(var(--divWidth) - 6px);
+}
+
+.div2
+{
+  background: green;
+  border: solid 3px red;
+  height: calc(var(--divHeight) - 6px);
+  margin-left: calc(var(--divWidth)*1);
+  width: calc(var(--divWidth) - 6px);
+}
+
+.div3
+{
+  background: blue;
+  border: solid 5px skyblue;
+  height: calc(var(--divHeight) - 10px);
+  margin-left: calc(var(--divWidth)*2);
+  width: calc(var(--divWidth) - 10px);
+}
+
+.div4
+{
+  background: yellow;
+  border: solid 10px lightpink;
+  height: calc(var(--divHeight) - 20px);
+  margin-left: calc(var(--divWidth)*3);
+  width: calc(var(--divWidth) - 20px);
+}
+
+.div5
+{
+  background: magenta;
+  border: solid 15px brown;
+  height: calc(var(--divHeight) - 30px);
+  margin-left: calc(var(--divWidth)*4);
+  width: calc(var(--divWidth) - 30px);
+}
+
+.div6
+{
+  background: purple;
+  border: solid 10px darkgreen;
+  height: calc(var(--divHeight) - 20px);
+  margin-left: calc(var(--divWidth)*5);
+  width: calc(var(--divWidth) - 20px);
+}
+
+.div7
+{
+  background: pink;
+  border: solid 20px orange;
+  height: calc(var(--divHeight) - 40px);
+  margin-left: calc(var(--divWidth)*6);
+  width: calc(var(--divWidth) - 40px);
+}
+
+.div8
+{
+  background: lightyellow;
+  border: solid 10px pink;
+  height: calc(var(--divHeight) - 20px);
+  margin-left: calc(var(--divWidth)*7);
+  width: calc(var(--divWidth) - 20px);
+}

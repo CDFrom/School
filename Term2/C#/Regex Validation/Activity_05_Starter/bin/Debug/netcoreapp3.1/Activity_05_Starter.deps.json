@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Activity_05_Starter/1.0.0": {
+        "runtime": {
+          "Activity_05_Starter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Activity_05_Starter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

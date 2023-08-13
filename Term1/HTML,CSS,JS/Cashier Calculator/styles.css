@@ -1,0 +1,110 @@
+/* Set general */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: grid;
+  grid-template-columns: 30% 39% 30%;
+  grid-gap: .5%;
+}
+
+/* Receipt table */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  text-align: center;
+}
+
+td {
+  border: 1px solid black;
+}
+
+/* Button visuals */
+button {
+  background: darkgrey;
+  padding: 2% 0;
+}
+
+/* Title and body for all sections */
+.Header {
+  background: rgb(157, 157, 157);
+  color: white;
+  text-align: center;
+}
+
+.Body {
+  padding: 5%;
+}
+
+.Admin, .Checkout, .Receipt {
+  background: lightgrey;
+}
+
+/* Admin section */
+.Admin input {
+  padding: 2% 0;
+}
+
+.Admin button {
+  width: 25%;
+}
+
+.Admin Select {
+  padding: 2% 0;
+  width: 32.9%;
+}
+
+.ProductAdd {
+  text-align: right;
+}
+
+.PriceAdd {
+  margin-top: 25%;
+}
+
+/* Checkout section */
+.Checkout button {
+  padding: 2% 5%;
+}
+
+.NewTransaction {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5%;
+}
+
+.AddToCart {
+  padding: 5%;
+}
+
+.AddToCart select {
+  padding: 1% 0;
+  width: 25%;
+}
+
+/* Numberpad */
+.Numpad {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 5px;
+  justify-content: center;
+  margin: 5%;
+}
+
+.cell {
+  border: 1px solid black;
+  text-align: center;
+  width: 40px;
+  height: 40px;
+}
+
+/* Receipt section */
+.ReceiptField {
+  background: white;
+}
+
+#date, #time {
+  font-weight: bold;
+}
